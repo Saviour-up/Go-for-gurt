@@ -1,0 +1,642 @@
+[
+ {
+  "q": "What is the SI unit of force?",
+  "correct": "Newton",
+  "wrong": [
+   "Joule",
+   "Watt",
+   "Pascal"
+  ],
+  "why": "One newton is the force that gives a mass of 1 kg an acceleration of 1 m/s²."
+ },
+ {
+  "q": "Which of these is a vector quantity?",
+  "correct": "Velocity",
+  "wrong": [
+   "Speed",
+   "Mass",
+   "Temperature"
+  ],
+  "why": "A vector has size and direction. Velocity is speed in a given direction."
+ },
+ {
+  "q": "What is the approximate acceleration due to gravity near the Earth's surface?",
+  "correct": "9.8 m/s²",
+  "wrong": [
+   "6.7 m/s²",
+   "98 m/s²",
+   "0.98 m/s²"
+  ],
+  "why": "Objects in free fall near the Earth's surface accelerate at about 9.8 m/s²."
+ },
+ {
+  "q": "What is the SI unit of electrical resistance?",
+  "correct": "Ohm",
+  "wrong": [
+   "Volt",
+   "Ampere",
+   "Coulomb"
+  ],
+  "why": "Resistance is measured in ohms. Resistance equals voltage divided by current."
+ },
+ {
+  "q": "Which law says the current through a metallic conductor is proportional to the voltage across it, at constant temperature?",
+  "correct": "Ohm's law",
+  "wrong": [
+   "Hooke's law",
+   "Boyle's law",
+   "Newton's second law"
+  ],
+  "why": "Ohm's law gives V = IR for a metallic conductor at constant temperature."
+ },
+ {
+  "q": "About how fast does light travel in a vacuum?",
+  "correct": "300 million metres per second",
+  "wrong": [
+   "3 million metres per second",
+   "300 thousand metres per second",
+   "3 billion metres per second"
+  ],
+  "why": "The speed of light in a vacuum is about 300 million metres per second."
+ },
+ {
+  "q": "Which of these waves needs a material medium to travel through?",
+  "correct": "Sound",
+  "wrong": [
+   "Light",
+   "Radio waves",
+   "X-rays"
+  ],
+  "why": "Sound is a mechanical wave, so it cannot travel through a vacuum. Electromagnetic waves can."
+ },
+ {
+  "q": "Which expression gives the kinetic energy of a moving object?",
+  "correct": "½ m v²",
+  "wrong": [
+   "m g h",
+   "m v",
+   "F s"
+  ],
+  "why": "Kinetic energy is ½mv². The expression mgh is gravitational potential energy and mv is momentum."
+ },
+ {
+  "q": "A car travels 120 km in 2 hours. What is its average speed?",
+  "correct": "60 km/h",
+  "wrong": [
+   "240 km/h",
+   "120 km/h",
+   "30 km/h"
+  ],
+  "why": "Average speed is distance divided by time: 120 ÷ 2 = 60 km/h."
+ },
+ {
+  "q": "Which particle in an atom carries a negative charge?",
+  "correct": "Electron",
+  "wrong": [
+   "Proton",
+   "Neutron",
+   "Nucleus"
+  ],
+  "why": "Electrons are negative, protons are positive and neutrons have no charge."
+ },
+ {
+  "q": "What is the bending of light as it passes from one medium into another called?",
+  "correct": "Refraction",
+  "wrong": [
+   "Reflection",
+   "Diffraction",
+   "Polarisation"
+  ],
+  "why": "Light changes speed when it enters a new medium, which changes its direction. This is refraction."
+ },
+ {
+  "q": "Which of these is a renewable source of energy?",
+  "correct": "Wind",
+  "wrong": [
+   "Coal",
+   "Natural gas",
+   "Peat"
+  ],
+  "why": "Wind will not run out. Coal, gas and peat are fossil fuels used up faster than they form."
+ },
+ {
+  "q": "What is the SI unit of energy?",
+  "correct": "Joule",
+  "wrong": [
+   "Watt",
+   "Newton",
+   "Pascal"
+  ],
+  "why": "Energy is measured in joules (J)."
+ },
+ {
+  "q": "What is the SI unit of power?",
+  "correct": "Watt",
+  "wrong": [
+   "Joule",
+   "Newton",
+   "Volt"
+  ],
+  "why": "One watt is one joule per second."
+ },
+ {
+  "q": "What is the SI unit of pressure?",
+  "correct": "Pascal",
+  "wrong": [
+   "Newton",
+   "Joule",
+   "Watt"
+  ],
+  "why": "Pressure is force per unit area, measured in pascals."
+ },
+ {
+  "q": "What is the SI unit of frequency?",
+  "correct": "Hertz",
+  "wrong": [
+   "Decibel",
+   "Watt",
+   "Metre"
+  ],
+  "why": "One hertz is one cycle per second."
+ },
+ {
+  "q": "What is the SI unit of electric current?",
+  "correct": "Ampere",
+  "wrong": [
+   "Volt",
+   "Ohm",
+   "Coulomb"
+  ],
+  "why": "Current is measured in amperes (amps)."
+ },
+ {
+  "q": "What is the SI unit of potential difference?",
+  "correct": "Volt",
+  "wrong": [
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "why": "One volt is one joule per coulomb."
+ },
+ {
+  "q": "What is the SI unit of electric charge?",
+  "correct": "Coulomb",
+  "wrong": [
+   "Ampere",
+   "Volt",
+   "Farad"
+  ],
+  "why": "One coulomb is one ampere-second."
+ },
+ {
+  "q": "What is the relationship between speed, distance and time?",
+  "correct": "Speed = distance / time",
+  "wrong": [
+   "Speed = distance x time",
+   "Speed = time / distance",
+   "Speed = distance + time"
+  ],
+  "why": "Divide distance by time."
+ },
+ {
+  "q": "What is acceleration?",
+  "correct": "The rate of change of velocity",
+  "wrong": [
+   "The rate of change of distance",
+   "The total distance travelled",
+   "Speed multiplied by time"
+  ],
+  "why": "Acceleration = change in velocity / time."
+ },
+ {
+  "q": "A car speeds up from 10 m/s to 30 m/s in 5 s. What is its acceleration?",
+  "correct": "4 m/s²",
+  "wrong": [
+   "2 m/s²",
+   "6 m/s²",
+   "8 m/s²"
+  ],
+  "why": "a = (30 - 10) / 5 = 4 m/s²."
+ },
+ {
+  "q": "What does Newton's first law say?",
+  "correct": "An object stays at rest or in constant motion unless a force acts on it",
+  "wrong": [
+   "Force equals mass times acceleration",
+   "Every action has an equal and opposite reaction",
+   "Energy cannot be created or destroyed"
+  ],
+  "why": "This is the law of inertia."
+ },
+ {
+  "q": "What does Newton's second law say?",
+  "correct": "Force equals mass times acceleration",
+  "wrong": [
+   "Every action has an equal and opposite reaction",
+   "Objects stay in motion",
+   "Energy is conserved"
+  ],
+  "why": "F = ma."
+ },
+ {
+  "q": "What does Newton's third law say?",
+  "correct": "Every action has an equal and opposite reaction",
+  "wrong": [
+   "F = ma",
+   "Objects keep moving",
+   "Gravity is constant"
+  ],
+  "why": "Forces always come in pairs."
+ },
+ {
+  "q": "What is the force needed to accelerate a 5 kg mass at 2 m/s²?",
+  "correct": "10 N",
+  "wrong": [
+   "2.5 N",
+   "7 N",
+   "20 N"
+  ],
+  "why": "F = ma = 5 x 2 = 10 N."
+ },
+ {
+  "q": "What is momentum?",
+  "correct": "Mass multiplied by velocity",
+  "wrong": [
+   "Force multiplied by distance",
+   "Mass divided by velocity",
+   "Velocity divided by time"
+  ],
+  "why": "Momentum p = mv."
+ },
+ {
+  "q": "What does the principle of conservation of momentum say?",
+  "correct": "Total momentum before a collision equals total momentum after (in a closed system)",
+  "wrong": [
+   "Energy is always lost in a collision",
+   "Momentum is created in collisions",
+   "Velocity always stays the same"
+  ],
+  "why": "This holds if no external force acts."
+ },
+ {
+  "q": "What is work done?",
+  "correct": "Force multiplied by distance moved in the direction of the force",
+  "wrong": [
+   "Mass multiplied by speed",
+   "Force divided by time",
+   "Energy divided by distance"
+  ],
+  "why": "W = Fs."
+ },
+ {
+  "q": "What is the gravitational potential energy of an object?",
+  "correct": "mgh",
+  "wrong": [
+   "½ mv²",
+   "Fs",
+   "mv"
+  ],
+  "why": "Gravitational potential energy = mass x g x height."
+ },
+ {
+  "q": "What is the principle of conservation of energy?",
+  "correct": "Energy cannot be created or destroyed, only changed from one form to another",
+  "wrong": [
+   "Energy is always lost as heat",
+   "Energy is only stored as potential",
+   "Energy is the same as force"
+  ],
+  "why": "The total energy in a closed system stays constant."
+ },
+ {
+  "q": "What is the difference between mass and weight?",
+  "correct": "Mass is the amount of matter; weight is the force of gravity on it",
+  "wrong": [
+   "Mass is a force; weight is an amount of matter",
+   "They are the same",
+   "Mass depends on location; weight does not"
+  ],
+  "why": "Mass is measured in kg, weight in newtons."
+ },
+ {
+  "q": "What is the weight of a 10 kg mass on Earth (g = 9.8 m/s²)?",
+  "correct": "98 N",
+  "wrong": [
+   "10 N",
+   "9.8 N",
+   "1 N"
+  ],
+  "why": "W = mg = 10 x 9.8."
+ },
+ {
+  "q": "Which quantity is a scalar?",
+  "correct": "Speed",
+  "wrong": [
+   "Velocity",
+   "Force",
+   "Displacement"
+  ],
+  "why": "Scalars have size only; vectors have size and direction."
+ },
+ {
+  "q": "What is the formula for density?",
+  "correct": "Density = mass / volume",
+  "wrong": [
+   "Density = mass x volume",
+   "Density = volume / mass",
+   "Density = mass + volume"
+  ],
+  "why": "Density is mass per unit volume."
+ },
+ {
+  "q": "What is pressure?",
+  "correct": "Force per unit area",
+  "wrong": [
+   "Force times area",
+   "Mass per unit volume",
+   "Energy per second"
+  ],
+  "why": "P = F / A."
+ },
+ {
+  "q": "Which instrument measures atmospheric pressure?",
+  "correct": "Barometer",
+  "wrong": [
+   "Thermometer",
+   "Ammeter",
+   "Hydrometer"
+  ],
+  "why": "A barometer measures air pressure."
+ },
+ {
+  "q": "What happens to the pressure of a gas if its volume is halved at constant temperature?",
+  "correct": "It doubles",
+  "wrong": [
+   "It halves",
+   "It stays the same",
+   "It quadruples"
+  ],
+  "why": "Boyle's law: pressure is inversely proportional to volume at constant temperature."
+ },
+ {
+  "q": "What is Boyle's law?",
+  "correct": "Pressure is inversely proportional to volume at constant temperature",
+  "wrong": [
+   "Pressure is proportional to volume",
+   "Volume is proportional to temperature",
+   "Energy is proportional to pressure"
+  ],
+  "why": "pV = constant for a fixed mass of gas at constant temperature."
+ },
+ {
+  "q": "What temperature on the Kelvin scale is absolute zero?",
+  "correct": "0 K",
+  "wrong": [
+   "273 K",
+   "-273 K",
+   "100 K"
+  ],
+  "why": "Absolute zero is the lowest possible temperature, about -273 °C."
+ },
+ {
+  "q": "What is the boiling point of water at standard pressure on the Celsius scale?",
+  "correct": "100 °C",
+  "wrong": [
+   "0 °C",
+   "50 °C",
+   "212 °C"
+  ],
+  "why": "Water boils at 100 degrees Celsius."
+ },
+ {
+  "q": "What is specific heat capacity?",
+  "correct": "The energy needed to raise 1 kg of a substance by 1 K",
+  "wrong": [
+   "The temperature of a substance",
+   "The heat given out by a fire",
+   "The rate of heating"
+  ],
+  "why": "Specific heat capacity is measured in J per kg per K."
+ },
+ {
+  "q": "What is conduction?",
+  "correct": "Heat transfer through a solid by particle vibrations",
+  "wrong": [
+   "Heat transfer by moving fluids",
+   "Heat transfer by waves",
+   "Heat transfer by radiation only"
+  ],
+  "why": "Metals are good conductors."
+ },
+ {
+  "q": "Which type of heat transfer doesn't need a medium?",
+  "correct": "Radiation",
+  "wrong": [
+   "Conduction",
+   "Convection",
+   "Evaporation"
+  ],
+  "why": "Radiation travels as electromagnetic waves, even through a vacuum."
+ },
+ {
+  "q": "What is convection?",
+  "correct": "Heat transfer by the movement of a fluid",
+  "wrong": [
+   "Heat transfer through a solid",
+   "Heat transfer by waves",
+   "Heat transfer by friction"
+  ],
+  "why": "Warm fluid rises and cooler fluid sinks."
+ },
+ {
+  "q": "What is the frequency of a wave?",
+  "correct": "The number of waves per second",
+  "wrong": [
+   "The height of a wave",
+   "The distance between peaks",
+   "The speed of the wave"
+  ],
+  "why": "Frequency is measured in hertz."
+ },
+ {
+  "q": "What is wavelength?",
+  "correct": "The distance between two successive peaks",
+  "wrong": [
+   "The time for one wave",
+   "The height of a wave",
+   "The number of waves per second"
+  ],
+  "why": "Wavelength is the length of one complete wave."
+ },
+ {
+  "q": "What is the wave equation?",
+  "correct": "v = f x wavelength",
+  "wrong": [
+   "v = f / wavelength",
+   "v = wavelength / f",
+   "v = f + wavelength"
+  ],
+  "why": "Speed equals frequency times wavelength."
+ },
+ {
+  "q": "What type of wave is sound?",
+  "correct": "Longitudinal",
+  "wrong": [
+   "Transverse",
+   "Electromagnetic",
+   "Standing only"
+  ],
+  "why": "Sound is a series of compressions and rarefactions."
+ },
+ {
+  "q": "Which type of wave is light?",
+  "correct": "Transverse (electromagnetic)",
+  "wrong": [
+   "Longitudinal",
+   "A sound wave",
+   "A pressure wave"
+  ],
+  "why": "Light is a transverse electromagnetic wave."
+ },
+ {
+  "q": "What is the approximate speed of sound in air?",
+  "correct": "340 m/s",
+  "wrong": [
+   "3 m/s",
+   "3000 m/s",
+   "300,000 m/s"
+  ],
+  "why": "Sound travels at about 340 m/s in air at room temperature."
+ },
+ {
+  "q": "What is an echo?",
+  "correct": "A reflection of sound",
+  "wrong": [
+   "A refraction of light",
+   "A diffraction of sound",
+   "A type of resonance"
+  ],
+  "why": "An echo is sound bouncing off a surface."
+ },
+ {
+  "q": "What is the Doppler effect?",
+  "correct": "A change in observed frequency due to relative motion",
+  "wrong": [
+   "A change in speed due to temperature",
+   "A change in amplitude",
+   "A change in wavelength due to colour"
+  ],
+  "why": "An ambulance siren sounds higher as it approaches."
+ },
+ {
+  "q": "Which of these is part of the electromagnetic spectrum with the shortest wavelength?",
+  "correct": "Gamma rays",
+  "wrong": [
+   "Radio waves",
+   "Visible light",
+   "Microwaves"
+  ],
+  "why": "Gamma rays have the shortest wavelength and highest frequency."
+ },
+ {
+  "q": "Which electromagnetic waves are used in remote controls?",
+  "correct": "Infrared",
+  "wrong": [
+   "X-rays",
+   "Gamma rays",
+   "Ultraviolet"
+  ],
+  "why": "Infrared radiation is used for short-range signalling."
+ },
+ {
+  "q": "What is total internal reflection used for?",
+  "correct": "Optical fibres",
+  "wrong": [
+   "Rainbows",
+   "Shadows",
+   "Lenses"
+  ],
+  "why": "Light is repeatedly reflected inside the glass fibre."
+ },
+ {
+  "q": "What type of lens is used to correct short sight?",
+  "correct": "Concave (diverging)",
+  "wrong": [
+   "Convex (converging)",
+   "Plane",
+   "Cylindrical"
+  ],
+  "why": "A diverging lens spreads rays so they focus on the retina."
+ },
+ {
+  "q": "What type of mirror is used as a car's wing mirror to give a wide view?",
+  "correct": "Convex",
+  "wrong": [
+   "Concave",
+   "Plane",
+   "Parabolic"
+  ],
+  "why": "Convex mirrors give a wider field of view."
+ },
+ {
+  "q": "What is the law of reflection?",
+  "correct": "The angle of incidence equals the angle of reflection",
+  "wrong": [
+   "The angle of incidence is larger than reflection",
+   "Light always bends towards the normal",
+   "Light speeds up in glass"
+  ],
+  "why": "Both angles are measured from the normal."
+ },
+ {
+  "q": "What is the formula for electrical power?",
+  "correct": "P = V x I",
+  "wrong": [
+   "P = V / I",
+   "P = I / V",
+   "P = V + I"
+  ],
+  "why": "Power equals voltage times current."
+ },
+ {
+  "q": "What is the current in a circuit if V = 12 V and R = 4 ohms?",
+  "correct": "3 A",
+  "wrong": [
+   "48 A",
+   "8 A",
+   "0.33 A"
+  ],
+  "why": "I = V / R = 12 / 4 = 3 A."
+ },
+ {
+  "q": "In a series circuit, what is the same at every point?",
+  "correct": "The current",
+  "wrong": [
+   "The voltage",
+   "The resistance",
+   "The power"
+  ],
+  "why": "There is only one path for the current."
+ },
+ {
+  "q": "In a parallel circuit, what is the same across each branch?",
+  "correct": "The voltage",
+  "wrong": [
+   "The current",
+   "The resistance",
+   "The power"
+  ],
+  "why": "Each branch is connected across the same two points."
+ },
+ {
+  "q": "What is the job of a fuse?",
+  "correct": "To break the circuit if the current is too high",
+  "wrong": [
+   "To increase the voltage",
+   "To store charge",
+   "To measure current"
+  ],
+  "why": "A fuse melts to protect the wiring and appliance."
+ }
+]

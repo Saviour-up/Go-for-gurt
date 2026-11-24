@@ -1,0 +1,612 @@
+[
+ {
+  "q": "In which year did the Easter Rising take place?",
+  "correct": "1916",
+  "wrong": [
+   "1913",
+   "1919",
+   "1921"
+  ],
+  "why": "The Rising began on Easter Monday, 24 April 1916."
+ },
+ {
+  "q": "Who founded the Land League in 1879?",
+  "correct": "Michael Davitt",
+  "wrong": [
+   "Charles Stewart Parnell",
+   "Daniel O'Connell",
+   "John Redmond"
+  ],
+  "why": "Davitt founded it in Mayo in 1879. Parnell became its president."
+ },
+ {
+  "q": "In which year did the potato blight first strike Ireland, starting the Great Famine?",
+  "correct": "1845",
+  "wrong": [
+   "1798",
+   "1801",
+   "1852"
+  ],
+  "why": "Blight first appeared in 1845 and the crop failed again in the years after."
+ },
+ {
+  "q": "Who became the first President of Ireland in 1938?",
+  "correct": "Douglas Hyde",
+  "wrong": [
+   "Seán T. O'Kelly",
+   "Éamon de Valera",
+   "Erskine Childers"
+  ],
+  "why": "Douglas Hyde, a founder of the Gaelic League, took office in June 1938."
+ },
+ {
+  "q": "In which year did Ireland join the European Economic Community?",
+  "correct": "1973",
+  "wrong": [
+   "1961",
+   "1985",
+   "1992"
+  ],
+  "why": "Ireland joined on 1 January 1973, at the same time as the UK and Denmark."
+ },
+ {
+  "q": "Which battle in 1690 saw William of Orange defeat James II?",
+  "correct": "Battle of the Boyne",
+  "wrong": [
+   "Battle of Kinsale",
+   "Battle of Aughrim",
+   "Battle of Clontarf"
+  ],
+  "why": "The Battle of the Boyne was fought in July 1690 and was a major Williamite victory."
+ },
+ {
+  "q": "Which society did Wolfe Tone help to found in 1791?",
+  "correct": "The United Irishmen",
+  "wrong": [
+   "The IRB",
+   "The Land League",
+   "The Gaelic League"
+  ],
+  "why": "Tone helped found the Society of United Irishmen in Belfast in 1791 and later played a part in the 1798 Rebellion."
+ },
+ {
+  "q": "Which act came into force on 1 January 1801 and united the parliaments of Ireland and Britain?",
+  "correct": "Act of Union",
+  "wrong": [
+   "Poynings' Law",
+   "Government of Ireland Act",
+   "Catholic Emancipation Act"
+  ],
+  "why": "The Act of Union abolished the Irish parliament and sent Irish MPs to Westminster."
+ },
+ {
+  "q": "Who led the campaign that won Catholic Emancipation in 1829?",
+  "correct": "Daniel O'Connell",
+  "wrong": [
+   "Charles Stewart Parnell",
+   "Michael Collins",
+   "Henry Grattan"
+  ],
+  "why": "O'Connell led the Catholic Association, and emancipation let Catholics sit in parliament."
+ },
+ {
+  "q": "In which year was the Anglo-Irish Treaty signed?",
+  "correct": "1921",
+  "wrong": [
+   "1916",
+   "1922",
+   "1919"
+  ],
+  "why": "The Treaty was signed in London on 6 December 1921."
+ },
+ {
+  "q": "Which leader's government introduced the 1937 Constitution, Bunreacht na hÉireann?",
+  "correct": "Éamon de Valera",
+  "wrong": [
+   "W.T. Cosgrave",
+   "Seán Lemass",
+   "John A. Costello"
+  ],
+  "why": "De Valera's Fianna Fáil government drafted it, and it was approved by referendum in July 1937."
+ },
+ {
+  "q": "In which year did the Irish Free State come into being?",
+  "correct": "1922",
+  "wrong": [
+   "1921",
+   "1916",
+   "1937"
+  ],
+  "why": "The Irish Free State was established on 6 December 1922."
+ },
+ {
+  "q": "Which leader founded the Home Rule Party in 1870 (originally the Home Government Association)?",
+  "correct": "Isaac Butt",
+  "wrong": [
+   "Charles Stewart Parnell",
+   "John Redmond",
+   "Michael Collins"
+  ],
+  "why": "Isaac Butt founded the movement for Irish self-government within the United Kingdom."
+ },
+ {
+  "q": "Who led the Irish Parliamentary Party from 1880 to 1891?",
+  "correct": "Charles Stewart Parnell",
+  "wrong": [
+   "John Redmond",
+   "Daniel O'Connell",
+   "Isaac Butt"
+  ],
+  "why": "Parnell was known as the 'uncrowned king of Ireland'."
+ },
+ {
+  "q": "In which year was Gladstone's first Home Rule Bill defeated in the House of Commons?",
+  "correct": "1886",
+  "wrong": [
+   "1893",
+   "1912",
+   "1870"
+  ],
+  "why": "The First Home Rule Bill was defeated in the House of Commons in 1886."
+ },
+ {
+  "q": "Which organisation was formed in 1913 to defend Home Rule?",
+  "correct": "The Irish Volunteers",
+  "wrong": [
+   "The Ulster Volunteer Force",
+   "The Irish Citizen Army",
+   "The IRB"
+  ],
+  "why": "The Irish Volunteers were founded in Dublin in November 1913."
+ },
+ {
+  "q": "Which organisation was set up in 1913 to oppose Home Rule?",
+  "correct": "The Ulster Volunteer Force",
+  "wrong": [
+   "The Irish Volunteers",
+   "Sinn Fein",
+   "The Orange Order"
+  ],
+  "why": "The UVF was formed in January 1913 under Edward Carson and James Craig."
+ },
+ {
+  "q": "Who led the Irish Citizen Army?",
+  "correct": "James Connolly",
+  "wrong": [
+   "Padraig Pearse",
+   "Eoin MacNeill",
+   "Thomas Clarke"
+  ],
+  "why": "Connolly founded the Irish Citizen Army to defend workers during the Lockout."
+ },
+ {
+  "q": "In what year did the Dublin Lockout take place?",
+  "correct": "1913",
+  "wrong": [
+   "1916",
+   "1911",
+   "1920"
+  ],
+  "why": "Employers locked out workers who joined the ITGWU, led by Jim Larkin."
+ },
+ {
+  "q": "Who was the leader of the Irish Transport and General Workers' Union during the Lockout?",
+  "correct": "Jim Larkin",
+  "wrong": [
+   "James Connolly",
+   "William Martin Murphy",
+   "Padraig Pearse"
+  ],
+  "why": "Larkin led the union against William Martin Murphy and other employers."
+ },
+ {
+  "q": "Where was the headquarters of the rebels during the 1916 Rising?",
+  "correct": "The General Post Office (GPO)",
+  "wrong": [
+   "Dublin Castle",
+   "City Hall",
+   "Trinity College"
+  ],
+  "why": "The GPO in Sackville (now O'Connell) Street was the headquarters."
+ },
+ {
+  "q": "Who read the Proclamation of the Irish Republic outside the GPO?",
+  "correct": "Padraig Pearse",
+  "wrong": [
+   "James Connolly",
+   "Michael Collins",
+   "Eamon de Valera"
+  ],
+  "why": "Pearse read the Proclamation on Easter Monday 1916."
+ },
+ {
+  "q": "Which rebel leader was spared execution after the Rising because he was born in America?",
+  "correct": "Eamon de Valera",
+  "wrong": [
+   "Michael Collins",
+   "Thomas MacDonagh",
+   "Sean MacDiarmada"
+  ],
+  "why": "De Valera's life was spared, partly due to his American birth."
+ },
+ {
+  "q": "Which party won a majority of Irish seats in the 1918 general election?",
+  "correct": "Sinn Fein",
+  "wrong": [
+   "The Irish Parliamentary Party",
+   "The Labour Party",
+   "The Unionist Party"
+  ],
+  "why": "Sinn Fein won 73 of 105 Irish seats in the 1918 general election."
+ },
+ {
+  "q": "Where did the first Dail meet in January 1919?",
+  "correct": "The Mansion House, Dublin",
+  "wrong": [
+   "Leinster House",
+   "The GPO",
+   "Dublin Castle"
+  ],
+  "why": "The first Dail met in the Mansion House on 21 January 1919."
+ },
+ {
+  "q": "What was the name of the police auxiliary force recruited in 1920 from ex-soldiers?",
+  "correct": "The Black and Tans",
+  "wrong": [
+   "The Garda Siochana",
+   "The Royal Irish Constabulary",
+   "The IRB"
+  ],
+  "why": "They were known for their khaki and dark green uniforms."
+ },
+ {
+  "q": "What happened on Bloody Sunday, 21 November 1920?",
+  "correct": "British forces fired on the crowd at Croke Park",
+  "wrong": [
+   "The Rising began",
+   "The Treaty was signed",
+   "The Dail was banned"
+  ],
+  "why": "Fourteen people were killed at a Gaelic football match in Croke Park."
+ },
+ {
+  "q": "Who was the Director of Intelligence of the IRA during the War of Independence?",
+  "correct": "Michael Collins",
+  "wrong": [
+   "Cathal Brugha",
+   "Richard Mulcahy",
+   "Eamon de Valera"
+  ],
+  "why": "Collins built an effective intelligence network."
+ },
+ {
+  "q": "What did the Government of Ireland Act (1920) do?",
+  "correct": "Divided Ireland into two parts, each with its own parliament",
+  "wrong": [
+   "Gave all of Ireland full independence",
+   "United the parliaments of Britain and Ireland",
+   "Ended the Dublin parliament in 1800"
+  ],
+  "why": "It created Northern Ireland and Southern Ireland, which was the start of partition."
+ },
+ {
+  "q": "Who led the Irish delegation to negotiate the Anglo-Irish Treaty in London?",
+  "correct": "Arthur Griffith and Michael Collins",
+  "wrong": [
+   "Eamon de Valera and Cathal Brugha",
+   "Eoin MacNeill and Padraig Pearse",
+   "John Redmond and Joe Devlin"
+  ],
+  "why": "Griffith led the delegation, with Collins a key member."
+ },
+ {
+  "q": "What oath did the Treaty require members of the Dail to take?",
+  "correct": "An oath of allegiance to the Crown",
+  "wrong": [
+   "An oath to the Pope",
+   "An oath to the Dail only",
+   "An oath to the IRA"
+  ],
+  "why": "The oath was one of the issues that split Sinn Fein."
+ },
+ {
+  "q": "Which two sides fought the Civil War from 1922 to 1923?",
+  "correct": "Pro-Treaty and anti-Treaty forces",
+  "wrong": [
+   "The IRA and the British Army",
+   "Unionists and nationalists",
+   "Catholics and Protestants"
+  ],
+  "why": "The Free State forces fought anti-Treaty IRA forces."
+ },
+ {
+  "q": "Who was the Free State leader who died in an ambush in August 1922?",
+  "correct": "Michael Collins",
+  "wrong": [
+   "Arthur Griffith",
+   "W. T. Cosgrave",
+   "Kevin O'Higgins"
+  ],
+  "why": "Collins was killed at Beal na Blath, County Cork."
+ },
+ {
+  "q": "Who became head of the Free State government after the deaths of Griffith and Collins?",
+  "correct": "W. T. Cosgrave",
+  "wrong": [
+   "Eamon de Valera",
+   "Sean Lemass",
+   "John A. Costello"
+  ],
+  "why": "Cosgrave led the government from 1922 to 1932."
+ },
+ {
+  "q": "Which party was founded by Eamon de Valera in 1926?",
+  "correct": "Fianna Fail",
+  "wrong": [
+   "Fine Gael",
+   "Labour",
+   "Clann na Poblachta"
+  ],
+  "why": "Fianna Fail came to power in 1932."
+ },
+ {
+  "q": "Which party was founded in 1933 from Cumann na nGaedheal and others?",
+  "correct": "Fine Gael",
+  "wrong": [
+   "Fianna Fail",
+   "Clann na Talmhan",
+   "Sinn Fein"
+  ],
+  "why": "Fine Gael was formed by the merger of Cumann na nGaedheal, the Centre Party and the Blueshirts."
+ },
+ {
+  "q": "What was the Economic War (1932-1938) between Ireland and Britain about?",
+  "correct": "Land annuities and tariffs",
+  "wrong": [
+   "The oath of allegiance",
+   "Fishing rights",
+   "The border"
+  ],
+  "why": "De Valera withheld land annuities and Britain imposed tariffs."
+ },
+ {
+  "q": "What was the Anglo-Irish Trade Agreement of 1938 notable for?",
+  "correct": "Britain returned the Treaty Ports",
+  "wrong": [
+   "Ireland rejoined the Commonwealth",
+   "The border was removed",
+   "Ireland joined the League of Nations"
+  ],
+  "why": "The Treaty Ports of Cobh, Berehaven and Lough Swilly were handed back."
+ },
+ {
+  "q": "What did Ireland call the Second World War period?",
+  "correct": "The Emergency",
+  "wrong": [
+   "The Troubles",
+   "The Crisis",
+   "The Great Fear"
+  ],
+  "why": "Ireland remained neutral in the Second World War."
+ },
+ {
+  "q": "Which city in Ireland was bombed by German aircraft on 31 May 1941?",
+  "correct": "Dublin",
+  "wrong": [
+   "Cork",
+   "Belfast",
+   "Galway"
+  ],
+  "why": "German bombs hit the North Strand area of Dublin."
+ },
+ {
+  "q": "Who became Taoiseach in 1959 and began the policy of economic expansion?",
+  "correct": "Sean Lemass",
+  "wrong": [
+   "Eamon de Valera",
+   "Jack Lynch",
+   "Garret FitzGerald"
+  ],
+  "why": "Lemass presided over economic growth and the first Programme for Economic Expansion."
+ },
+ {
+  "q": "Which economist's report in 1958 outlined the plan for economic expansion?",
+  "correct": "T. K. Whitaker",
+  "wrong": [
+   "Garret FitzGerald",
+   "Sean MacBride",
+   "Charles Haughey"
+  ],
+  "why": "T. K. Whitaker, Secretary of the Department of Finance, wrote 'Economic Development'."
+ },
+ {
+  "q": "Who was the first Prime Minister of Northern Ireland?",
+  "correct": "James Craig",
+  "wrong": [
+   "Edward Carson",
+   "Terence O'Neill",
+   "Brian Faulkner"
+  ],
+  "why": "Craig, Lord Craigavon, led from 1921 to 1940."
+ },
+ {
+  "q": "What was the civil rights movement in Northern Ireland during the 1960s about?",
+  "correct": "Equal rights for Catholics in votes, jobs and housing",
+  "wrong": [
+   "Independence from Britain",
+   "Joining the Commonwealth",
+   "Banning the Orange Order"
+  ],
+  "why": "The Northern Ireland Civil Rights Association was founded in 1967."
+ },
+ {
+  "q": "What happened on Bloody Sunday in Derry on 30 January 1972?",
+  "correct": "British paratroopers shot civil rights marchers",
+  "wrong": [
+   "The IRA bombed Belfast",
+   "The Treaty was signed",
+   "Parliament was dissolved"
+  ],
+  "why": "Thirteen people were killed on the day and a fourteenth died later."
+ },
+ {
+  "q": "What was the Sunningdale Agreement of 1973 designed to do?",
+  "correct": "Create a power-sharing executive in Northern Ireland",
+  "wrong": [
+   "End partition",
+   "Unite Ireland",
+   "Remove the British army"
+  ],
+  "why": "It collapsed in 1974 after a loyalist strike."
+ },
+ {
+  "q": "What was the Good Friday Agreement of 1998?",
+  "correct": "A peace agreement for Northern Ireland",
+  "wrong": [
+   "The Treaty ending the Civil War",
+   "The Act of Union",
+   "The Treaty of Rome"
+  ],
+  "why": "It set up power-sharing and North-South bodies."
+ },
+ {
+  "q": "Who was the Irish Taoiseach when the Good Friday Agreement was signed?",
+  "correct": "Bertie Ahern",
+  "wrong": [
+   "Albert Reynolds",
+   "John Bruton",
+   "Charles Haughey"
+  ],
+  "why": "Bertie Ahern was Taoiseach from 1997 to 2008."
+ },
+ {
+  "q": "Which Irish president was the first woman to hold the office?",
+  "correct": "Mary Robinson",
+  "wrong": [
+   "Mary McAleese",
+   "Patrick Hillery",
+   "Michael D. Higgins"
+  ],
+  "why": "Mary Robinson was elected in 1990."
+ },
+ {
+  "q": "Which treaty established the European Economic Community in 1957?",
+  "correct": "The Treaty of Rome",
+  "wrong": [
+   "The Treaty of Paris",
+   "The Maastricht Treaty",
+   "The Lisbon Treaty"
+  ],
+  "why": "The Treaty of Rome was signed by the six founding states."
+ },
+ {
+  "q": "What did the Marshall Plan provide?",
+  "correct": "American economic aid to rebuild Europe",
+  "wrong": [
+   "Military protection from Russia",
+   "A trade agreement between Europe and Asia",
+   "A ban on atomic weapons"
+  ],
+  "why": "The plan gave about 13 billion dollars of aid from 1948."
+ },
+ {
+  "q": "What was the Cold War?",
+  "correct": "A period of tension between the USA and the USSR without direct war",
+  "wrong": [
+   "A war fought in winter",
+   "A war between Germany and France",
+   "A civil war in Russia"
+  ],
+  "why": "The superpowers competed over ideology and influence from 1945 to 1991."
+ },
+ {
+  "q": "What was the Berlin Wall?",
+  "correct": "A barrier built in 1961 dividing East and West Berlin",
+  "wrong": [
+   "A wall built by the Romans",
+   "A wall around Paris",
+   "A wall in Moscow"
+  ],
+  "why": "It stood until 1989."
+ },
+ {
+  "q": "In which year did the Berlin Wall fall?",
+  "correct": "1989",
+  "wrong": [
+   "1961",
+   "1991",
+   "1979"
+  ],
+  "why": "The wall fell on 9 November 1989."
+ },
+ {
+  "q": "Which crisis in October 1962 brought the US and USSR close to nuclear war?",
+  "correct": "The Cuban Missile Crisis",
+  "wrong": [
+   "The Berlin Airlift",
+   "The Korean War",
+   "The Suez Crisis"
+  ],
+  "why": "Soviet missiles in Cuba triggered a US blockade."
+ },
+ {
+  "q": "Which US president was in office during the Cuban Missile Crisis?",
+  "correct": "John F. Kennedy",
+  "wrong": [
+   "Dwight Eisenhower",
+   "Lyndon Johnson",
+   "Richard Nixon"
+  ],
+  "why": "Kennedy negotiated a settlement with Khrushchev."
+ },
+ {
+  "q": "What was the Berlin Airlift (1948-49)?",
+  "correct": "Supplies flown into West Berlin during a Soviet blockade",
+  "wrong": [
+   "A bombing campaign",
+   "An escape of East Germans",
+   "A prisoner exchange"
+  ],
+  "why": "Allied planes supplied West Berlin for nearly a year."
+ },
+ {
+  "q": "What was NATO, founded in 1949?",
+  "correct": "A military alliance of Western countries",
+  "wrong": [
+   "A trade union",
+   "A communist alliance",
+   "A United Nations agency"
+  ],
+  "why": "The North Atlantic Treaty Organisation was a collective defence alliance."
+ },
+ {
+  "q": "Which alliance did the USSR create in 1955 in response to NATO?",
+  "correct": "The Warsaw Pact",
+  "wrong": [
+   "COMECON",
+   "The Axis",
+   "The Triple Entente"
+  ],
+  "why": "Eastern bloc countries joined the Warsaw Pact."
+ },
+ {
+  "q": "What did the Truman Doctrine (1947) promise?",
+  "correct": "US support for countries resisting communism",
+  "wrong": [
+   "Aid for Germany",
+   "A ban on nuclear weapons",
+   "A UN peacekeeping force"
+  ],
+  "why": "Truman pledged to support free peoples resisting subjugation."
+ },
+ {
+  "q": "In which year did Ireland join the United Nations?",
+  "correct": "1955",
+  "wrong": [
+   "1945",
+   "1949",
+   "1960"
+  ],
+  "why": "Ireland was admitted to the UN in December 1955."
+ }
+]

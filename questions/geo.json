@@ -1,0 +1,642 @@
+[
+ {
+  "q": "The Mid-Atlantic Ridge is an example of which type of plate boundary?",
+  "correct": "Constructive",
+  "wrong": [
+   "Destructive",
+   "Conservative",
+   "Collision"
+  ],
+  "why": "Plates move apart here and new crust forms as magma rises, so it is a constructive boundary."
+ },
+ {
+  "q": "Which river is the longest in Ireland?",
+  "correct": "Shannon",
+  "wrong": [
+   "Liffey",
+   "Lee",
+   "Boyne"
+  ],
+  "why": "The Shannon is about 360 km long and is the longest river in the British Isles."
+ },
+ {
+  "q": "Stones in a river knock against each other and become smaller and rounder. What is this erosion process called?",
+  "correct": "Attrition",
+  "wrong": [
+   "Abrasion",
+   "Hydraulic action",
+   "Solution"
+  ],
+  "why": "Attrition is stones wearing each other down. Abrasion is stones scraping the bed and banks."
+ },
+ {
+  "q": "Which rock type forms when magma cools and hardens?",
+  "correct": "Igneous",
+  "wrong": [
+   "Sedimentary",
+   "Metamorphic",
+   "Mineral"
+  ],
+  "why": "Igneous rocks such as granite and basalt form when molten rock cools and solidifies."
+ },
+ {
+  "q": "Which region of County Clare is famous for its karst landscape?",
+  "correct": "The Burren",
+  "wrong": [
+   "The Cooley Peninsula",
+   "The Wicklow Mountains",
+   "The Slieve Bloom Mountains"
+  ],
+  "why": "The Burren has limestone pavement, caves and swallow holes, all typical karst features."
+ },
+ {
+  "q": "What do we call a line on a map that joins places of equal height above sea level?",
+  "correct": "Contour line",
+  "wrong": [
+   "Grid line",
+   "Isobar",
+   "Meridian"
+  ],
+  "why": "Contour lines join points at the same altitude. Lines close together show a steep slope."
+ },
+ {
+  "q": "Which type of volcano has steep sides built from alternating layers of ash and lava?",
+  "correct": "Composite volcano",
+  "wrong": [
+   "Shield volcano",
+   "Cinder cone",
+   "Fold mountain"
+  ],
+  "why": "Composite volcanoes have steep sides built from layers of ash and lava. Shield volcanoes are wide with gentle slopes."
+ },
+ {
+  "q": "What is the name of the process in which water vapour cools and changes into liquid droplets?",
+  "correct": "Condensation",
+  "wrong": [
+   "Evaporation",
+   "Precipitation",
+   "Transpiration"
+  ],
+  "why": "Condensation happens when air cools and water vapour turns into tiny droplets, forming cloud."
+ },
+ {
+  "q": "A U-shaped valley was most likely carved by which agent of erosion?",
+  "correct": "A glacier",
+  "wrong": [
+   "A river",
+   "Wind",
+   "The sea"
+  ],
+  "why": "Glaciers carve wide valleys with steep sides and a flat floor. Rivers cut V-shaped valleys."
+ },
+ {
+  "q": "Which of these is a primary sector activity?",
+  "correct": "Farming",
+  "wrong": [
+   "Car assembly",
+   "Banking",
+   "Teaching"
+  ],
+  "why": "Primary activities take raw materials from the earth or sea, such as farming, fishing and mining."
+ },
+ {
+  "q": "What type of boundary is the San Andreas Fault, where plates slide past each other?",
+  "correct": "Conservative",
+  "wrong": [
+   "Constructive",
+   "Destructive",
+   "Subduction zone"
+  ],
+  "why": "At a conservative boundary plates slide past each other and crust is neither created nor destroyed."
+ },
+ {
+  "q": "Which instrument records the shaking caused by an earthquake?",
+  "correct": "Seismograph",
+  "wrong": [
+   "Barometer",
+   "Anemometer",
+   "Thermometer"
+  ],
+  "why": "A seismograph records ground vibrations. A barometer measures air pressure and an anemometer measures wind speed."
+ },
+ {
+  "q": "What are the three main layers of the Earth, from the outside in?",
+  "correct": "Crust, mantle, core",
+  "wrong": [
+   "Core, mantle, crust",
+   "Mantle, crust, core",
+   "Crust, core, mantle"
+  ],
+  "why": "The Earth has a thin crust, a thick mantle and a core."
+ },
+ {
+  "q": "Which layer of the Earth is the thinnest?",
+  "correct": "The crust",
+  "wrong": [
+   "The mantle",
+   "The outer core",
+   "The inner core"
+  ],
+  "why": "The crust is a thin rocky skin."
+ },
+ {
+  "q": "What is the name of the supercontinent that existed about 250 million years ago?",
+  "correct": "Pangaea",
+  "wrong": [
+   "Gondwana only",
+   "Laurasia only",
+   "Atlantis"
+  ],
+  "why": "Pangaea later broke apart into the continents we know today."
+ },
+ {
+  "q": "What type of plate boundary is found where the Nazca Plate meets the South American Plate?",
+  "correct": "Destructive",
+  "wrong": [
+   "Constructive",
+   "Conservative",
+   "Transform only"
+  ],
+  "why": "The denser oceanic plate subducts beneath the continental plate."
+ },
+ {
+  "q": "Which type of rock is formed from layers of sediment pressed together?",
+  "correct": "Sedimentary",
+  "wrong": [
+   "Igneous",
+   "Metamorphic",
+   "Volcanic"
+  ],
+  "why": "Sedimentary rocks such as limestone and sandstone are formed in layers."
+ },
+ {
+  "q": "Which rock is formed when limestone is changed by heat and pressure?",
+  "correct": "Marble",
+  "wrong": [
+   "Granite",
+   "Basalt",
+   "Sandstone"
+  ],
+  "why": "Marble is a metamorphic rock."
+ },
+ {
+  "q": "Which of these is an igneous rock?",
+  "correct": "Granite",
+  "wrong": [
+   "Limestone",
+   "Sandstone",
+   "Marble"
+  ],
+  "why": "Granite forms from magma that cooled slowly underground."
+ },
+ {
+  "q": "What is the name of the point on the Earth's surface directly above the focus of an earthquake?",
+  "correct": "Epicentre",
+  "wrong": [
+   "Fault",
+   "Hypocentre",
+   "Crater"
+  ],
+  "why": "The epicentre is where the shaking is usually strongest."
+ },
+ {
+  "q": "Which scale is used to measure the magnitude of an earthquake?",
+  "correct": "Richter scale",
+  "wrong": [
+   "Beaufort scale",
+   "Mercator scale",
+   "Ordnance scale"
+  ],
+  "why": "The Richter scale (and moment magnitude scale) measure earthquake energy."
+ },
+ {
+  "q": "What is lava?",
+  "correct": "Molten rock that reaches the Earth's surface",
+  "wrong": [
+   "Molten rock below the surface",
+   "Volcanic ash",
+   "A volcanic gas"
+  ],
+  "why": "Underground it is called magma."
+ },
+ {
+  "q": "What is the term for a bowl-shaped hollow high in the mountains formed by glacial erosion?",
+  "correct": "Corrie",
+  "wrong": [
+   "Drumlin",
+   "Esker",
+   "Moraine"
+  ],
+  "why": "A corrie is also called a cirque or cwm."
+ },
+ {
+  "q": "Which landform is a long, winding ridge of sand and gravel left by a river under a glacier?",
+  "correct": "Esker",
+  "wrong": [
+   "Drumlin",
+   "Corrie",
+   "Arête"
+  ],
+  "why": "Eskers are formed by meltwater streams beneath ice."
+ },
+ {
+  "q": "What is a drumlin?",
+  "correct": "A hill of glacial deposits shaped like an upturned boat",
+  "wrong": [
+   "A U-shaped valley",
+   "A glacial lake",
+   "A sharp mountain ridge"
+  ],
+  "why": "Drumlins are common in counties like Cavan and Monaghan."
+ },
+ {
+  "q": "What is an arete?",
+  "correct": "A narrow sharp ridge between two corries",
+  "wrong": [
+   "A flat valley floor",
+   "A deposit of sand",
+   "A glacial lake"
+  ],
+  "why": "Two corries cut back to back leave a knife-edge ridge."
+ },
+ {
+  "q": "What is a meander?",
+  "correct": "A bend in a river",
+  "wrong": [
+   "A waterfall",
+   "A river's mouth",
+   "A lake"
+  ],
+  "why": "Meanders develop in the middle and lower courses of rivers."
+ },
+ {
+  "q": "What is an oxbow lake?",
+  "correct": "A lake formed from a cut-off meander",
+  "wrong": [
+   "A lake in a corrie",
+   "A man-made lake",
+   "A lake in a volcano"
+  ],
+  "why": "The river cuts through the neck of a meander and leaves a crescent lake."
+ },
+ {
+  "q": "What is the name of the place where a river meets the sea?",
+  "correct": "Mouth",
+  "wrong": [
+   "Source",
+   "Confluence",
+   "Tributary"
+  ],
+  "why": "The mouth is the end of the river."
+ },
+ {
+  "q": "What do we call a smaller river that joins a larger one?",
+  "correct": "Tributary",
+  "wrong": [
+   "Distributary",
+   "Meander",
+   "Delta"
+  ],
+  "why": "A tributary flows into a main river."
+ },
+ {
+  "q": "Which process happens when waves pick up sand and shingle and hurl it against the cliff?",
+  "correct": "Abrasion",
+  "wrong": [
+   "Attrition",
+   "Solution",
+   "Hydraulic action only"
+  ],
+  "why": "Abrasion wears away rock using the material carried by waves."
+ },
+ {
+  "q": "What is a headland?",
+  "correct": "A piece of land that sticks out into the sea",
+  "wrong": [
+   "A bay",
+   "A spit",
+   "A beach"
+  ],
+  "why": "Headlands are made of harder rock that resists erosion."
+ },
+ {
+  "q": "Which coastal feature is a narrow strip of sand or shingle joined to land at one end?",
+  "correct": "Spit",
+  "wrong": [
+   "Stack",
+   "Arch",
+   "Cave"
+  ],
+  "why": "Longshore drift deposits material to form a spit."
+ },
+ {
+  "q": "What is longshore drift?",
+  "correct": "The movement of sand along a coast by waves",
+  "wrong": [
+   "The movement of ice",
+   "The movement of rain",
+   "The movement of wind only"
+  ],
+  "why": "Waves hit the beach at an angle and the backwash goes straight back."
+ },
+ {
+  "q": "What is a sea stack?",
+  "correct": "A pillar of rock left standing in the sea",
+  "wrong": [
+   "A sandbar",
+   "A type of cave",
+   "A shingle beach"
+  ],
+  "why": "Stacks form when the top of a sea arch collapses."
+ },
+ {
+  "q": "What type of weathering is caused by repeated freezing and thawing of water in rock?",
+  "correct": "Freeze-thaw",
+  "wrong": [
+   "Chemical",
+   "Biological",
+   "Carbonation"
+  ],
+  "why": "Water expands as it freezes and widens cracks."
+ },
+ {
+  "q": "What is carbonation?",
+  "correct": "Weathering of limestone by weak acid in rainwater",
+  "wrong": [
+   "Weathering by ice",
+   "Weathering by plants",
+   "Erosion by wind"
+  ],
+  "why": "Rain with dissolved carbon dioxide dissolves limestone."
+ },
+ {
+  "q": "Which landform is found in karst areas where rainwater dissolves limestone along cracks?",
+  "correct": "A limestone pavement",
+  "wrong": [
+   "A sandbar",
+   "A delta",
+   "A drumlin"
+  ],
+  "why": "The Burren has well-known limestone pavements."
+ },
+ {
+  "q": "What are stalactites?",
+  "correct": "Icicle-like formations hanging from a cave roof",
+  "wrong": [
+   "Pillars rising from the cave floor",
+   "Sinkholes",
+   "Underground rivers"
+  ],
+  "why": "Stalactites hang from above, stalagmites grow up from the floor."
+ },
+ {
+  "q": "What is the climate of Ireland described as?",
+  "correct": "Cool temperate oceanic",
+  "wrong": [
+   "Hot desert",
+   "Tropical",
+   "Polar"
+  ],
+  "why": "Ireland has mild, wet weather moderated by the Atlantic Ocean."
+ },
+ {
+  "q": "What air mass brings mild, wet weather to Ireland?",
+  "correct": "Tropical maritime",
+  "wrong": [
+   "Polar continental",
+   "Arctic maritime",
+   "Tropical continental"
+  ],
+  "why": "Air that crosses the warm Atlantic brings damp weather."
+ },
+ {
+  "q": "What is a depression (low-pressure system)?",
+  "correct": "An area of low pressure bringing wet, windy weather",
+  "wrong": [
+   "An area of high pressure",
+   "A calm clear zone",
+   "A tropical storm only"
+  ],
+  "why": "Depressions bring rain and strong winds to Ireland."
+ },
+ {
+  "q": "What is relief rainfall?",
+  "correct": "Rain caused when air is forced to rise over high ground",
+  "wrong": [
+   "Rain caused by hot ground",
+   "Rain from a cold front",
+   "Rain from sea fog"
+  ],
+  "why": "The air cools as it rises and water vapour condenses."
+ },
+ {
+  "q": "What is the name of the warm ocean current that warms Ireland's climate?",
+  "correct": "North Atlantic Drift",
+  "wrong": [
+   "Labrador Current",
+   "Canary Current",
+   "Humboldt Current"
+  ],
+  "why": "It is a continuation of the Gulf Stream."
+ },
+ {
+  "q": "Which line of latitude is at 0 degrees?",
+  "correct": "The Equator",
+  "wrong": [
+   "The Tropic of Cancer",
+   "The Arctic Circle",
+   "The Prime Meridian"
+  ],
+  "why": "The Equator divides the Earth into the Northern and Southern Hemispheres."
+ },
+ {
+  "q": "Which line of longitude is at 0 degrees?",
+  "correct": "The Prime Meridian",
+  "wrong": [
+   "The Equator",
+   "The International Date Line",
+   "The Tropic of Capricorn"
+  ],
+  "why": "It passes through Greenwich in London."
+ },
+ {
+  "q": "What does an Ordnance Survey 1:50,000 scale mean?",
+  "correct": "1 cm on the map equals 500 m on the ground",
+  "wrong": [
+   "1 cm equals 50 m",
+   "1 cm equals 5 km",
+   "1 cm equals 50 km"
+  ],
+  "why": "The scale 1:50,000 means 1 cm = 50,000 cm = 500 m."
+ },
+ {
+  "q": "What colour are rivers on an OS map?",
+  "correct": "Blue",
+  "wrong": [
+   "Red",
+   "Green",
+   "Brown"
+  ],
+  "why": "Water features are shown in blue."
+ },
+ {
+  "q": "What is population density?",
+  "correct": "The number of people per square kilometre",
+  "wrong": [
+   "The total number of people",
+   "The birth rate",
+   "The death rate"
+  ],
+  "why": "Population density = population divided by area."
+ },
+ {
+  "q": "What is birth rate?",
+  "correct": "The number of live births per 1000 people per year",
+  "wrong": [
+   "The number of deaths per 1000 people",
+   "The total population",
+   "The number of people who migrate"
+  ],
+  "why": "Birth rate is measured per 1000 people each year."
+ },
+ {
+  "q": "What is the term for people moving from rural areas to cities?",
+  "correct": "Rural-urban migration",
+  "wrong": [
+   "Emigration only",
+   "Counter-urbanisation",
+   "Commuting"
+  ],
+  "why": "People move to cities for jobs and services."
+ },
+ {
+  "q": "What is emigration?",
+  "correct": "Leaving a country to live in another",
+  "wrong": [
+   "Arriving in a country to live",
+   "Moving within a country",
+   "Visiting a country"
+  ],
+  "why": "Immigrants arrive, emigrants leave."
+ },
+ {
+  "q": "What does a population pyramid show?",
+  "correct": "The age and sex structure of a population",
+  "wrong": [
+   "Where people live",
+   "How much money people earn",
+   "The birth rate only"
+  ],
+  "why": "The bars show males and females in each age group."
+ },
+ {
+  "q": "What is an ageing population?",
+  "correct": "A population with a growing share of older people",
+  "wrong": [
+   "A population with many babies",
+   "A population with no migration",
+   "A population that is shrinking quickly"
+  ],
+  "why": "An ageing population has a rising proportion of people aged 65 and over."
+ },
+ {
+  "q": "What is urbanisation?",
+  "correct": "The growth in the proportion of people living in towns and cities",
+  "wrong": [
+   "The growth of farms",
+   "The decline of towns",
+   "The spread of forests"
+  ],
+  "why": "Urbanisation happens as people move to cities."
+ },
+ {
+  "q": "What is a conurbation?",
+  "correct": "A large urban area formed when towns merge",
+  "wrong": [
+   "A small village",
+   "A rural area",
+   "A suburb only"
+  ],
+  "why": "Greater Dublin is a conurbation."
+ },
+ {
+  "q": "Which of these is a secondary economic activity?",
+  "correct": "Manufacturing",
+  "wrong": [
+   "Farming",
+   "Teaching",
+   "Fishing"
+  ],
+  "why": "Secondary activities make or process goods."
+ },
+ {
+  "q": "Which of these is a tertiary activity?",
+  "correct": "Tourism",
+  "wrong": [
+   "Mining",
+   "Forestry",
+   "Farming"
+  ],
+  "why": "Tertiary activities provide services."
+ },
+ {
+  "q": "What is a renewable energy source?",
+  "correct": "Solar power",
+  "wrong": [
+   "Coal",
+   "Oil",
+   "Natural gas"
+  ],
+  "why": "Renewable sources are replenished naturally."
+ },
+ {
+  "q": "What is the greenhouse effect?",
+  "correct": "Gases trap heat in the atmosphere",
+  "wrong": [
+   "Plants release oxygen",
+   "The ozone layer is destroyed",
+   "Clouds reflect sunlight"
+  ],
+  "why": "Greenhouse gases keep Earth warm but too many cause global warming."
+ },
+ {
+  "q": "Which gas is the main contributor to human-caused global warming?",
+  "correct": "Carbon dioxide",
+  "wrong": [
+   "Oxygen",
+   "Nitrogen",
+   "Argon"
+  ],
+  "why": "Burning fossil fuels releases carbon dioxide."
+ },
+ {
+  "q": "What does sustainable mean in geography?",
+  "correct": "Meeting needs without damaging resources for the future",
+  "wrong": [
+   "Using resources as fast as possible",
+   "Stopping all development",
+   "Only using imports"
+  ],
+  "why": "Sustainability balances present needs with future ones."
+ },
+ {
+  "q": "What is the capital city of Spain?",
+  "correct": "Madrid",
+  "wrong": [
+   "Barcelona",
+   "Seville",
+   "Valencia"
+  ],
+  "why": "Madrid is in the centre of Spain."
+ },
+ {
+  "q": "On which continent is the Sahara Desert?",
+  "correct": "Africa",
+  "wrong": [
+   "Asia",
+   "South America",
+   "Australia"
+  ],
+  "why": "The Sahara covers much of northern Africa."
+ }
+]

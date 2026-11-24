@@ -1,0 +1,632 @@
+[
+ {
+  "q": "What is opportunity cost?",
+  "correct": "The value of the next best alternative given up",
+  "wrong": [
+   "The money price of a good",
+   "The cost of producing one extra unit",
+   "Costs that do not change with output"
+  ],
+  "why": "Resources are scarce, so choosing one option means giving up the next best alternative."
+ },
+ {
+  "q": "What does GDP measure?",
+  "correct": "The value of goods and services produced in a country in a year",
+  "wrong": [
+   "The total spending of the government",
+   "The value of a country's exports",
+   "The average income of each person"
+  ],
+  "why": "Gross domestic product is the total value of output produced within a country in a given period."
+ },
+ {
+  "q": "What is inflation?",
+  "correct": "A sustained rise in the general level of prices",
+  "wrong": [
+   "A fall in unemployment",
+   "A rise in the value of a currency",
+   "An increase in the price of one product"
+  ],
+  "why": "Inflation is a sustained increase in the general price level, so each euro buys less."
+ },
+ {
+  "q": "If the price of a good rises and the quantity demanded falls, which law does this show?",
+  "correct": "The law of demand",
+  "wrong": [
+   "The law of supply",
+   "The law of diminishing returns",
+   "Say's law"
+  ],
+  "why": "The law of demand says that, other things equal, a higher price reduces the quantity demanded."
+ },
+ {
+  "q": "Which of these is a factor of production?",
+  "correct": "Labour",
+  "wrong": [
+   "Inflation",
+   "Taxation",
+   "Exports"
+  ],
+  "why": "The factors of production are land, labour, capital and enterprise."
+ },
+ {
+  "q": "A market with only one seller is called what?",
+  "correct": "A monopoly",
+  "wrong": [
+   "An oligopoly",
+   "Perfect competition",
+   "A monopsony"
+  ],
+  "why": "A monopoly has a single seller. An oligopoly has a few large sellers."
+ },
+ {
+  "q": "Which institution sets interest rates for the euro area?",
+  "correct": "The European Central Bank",
+  "wrong": [
+   "The Central Bank of Ireland",
+   "The Revenue Commissioners",
+   "The International Monetary Fund"
+  ],
+  "why": "The ECB sets the key interest rates for countries that use the euro, including Ireland."
+ },
+ {
+  "q": "If consumers' incomes rise, what usually happens to the demand for a normal good?",
+  "correct": "It increases",
+  "wrong": [
+   "It decreases",
+   "It stays the same",
+   "It becomes perfectly elastic"
+  ],
+  "why": "For a normal good, higher incomes raise demand, so the demand curve shifts to the right."
+ },
+ {
+  "q": "How is price elasticity of demand calculated?",
+  "correct": "% change in quantity demanded ÷ % change in price",
+  "wrong": [
+   "% change in price ÷ % change in quantity demanded",
+   "Change in price ÷ change in quantity",
+   "Price × quantity demanded"
+  ],
+  "why": "Price elasticity of demand is the % change in quantity demanded divided by the % change in price."
+ },
+ {
+  "q": "Which of these is an indirect tax?",
+  "correct": "VAT",
+  "wrong": [
+   "Income tax",
+   "Capital gains tax",
+   "Corporation tax"
+  ],
+  "why": "Indirect taxes are charged on spending, such as VAT and excise duty, not directly on income."
+ },
+ {
+  "q": "Someone who is willing and able to work and is looking for a job, but has none, is counted as what?",
+  "correct": "Unemployed",
+  "wrong": [
+   "Underemployed",
+   "Economically inactive",
+   "Self-employed"
+  ],
+  "why": "The unemployed are available for work and actively seeking it but cannot find a job."
+ },
+ {
+  "q": "A tax that takes a higher percentage of income from higher earners is called what?",
+  "correct": "A progressive tax",
+  "wrong": [
+   "A regressive tax",
+   "A proportional tax",
+   "An indirect tax"
+  ],
+  "why": "With a progressive tax the rate rises as income rises. Income tax in Ireland is progressive."
+ },
+ {
+  "q": "What is scarcity in economics?",
+  "correct": "Limited resources compared with unlimited wants",
+  "wrong": [
+   "A shortage of money only",
+   "A rise in prices",
+   "A fall in output"
+  ],
+  "why": "Scarcity is the basic economic problem: wants are unlimited but resources are limited."
+ },
+ {
+  "q": "Which of these is an economic good?",
+  "correct": "A car",
+  "wrong": [
+   "Sunshine",
+   "Fresh air",
+   "A sea breeze"
+  ],
+  "why": "Economic goods are scarce and have an opportunity cost."
+ },
+ {
+  "q": "Which factor of production earns rent?",
+  "correct": "Land",
+  "wrong": [
+   "Labour",
+   "Capital",
+   "Enterprise"
+  ],
+  "why": "Land earns rent, labour earns wages, capital earns interest and enterprise earns profit."
+ },
+ {
+  "q": "What reward do workers earn for providing labour?",
+  "correct": "Wages",
+  "wrong": [
+   "Rent",
+   "Interest",
+   "Profit"
+  ],
+  "why": "Labour is paid wages."
+ },
+ {
+  "q": "What is the reward for the factor of production called enterprise?",
+  "correct": "Profit",
+  "wrong": [
+   "Wages",
+   "Rent",
+   "Interest"
+  ],
+  "why": "Entrepreneurs take risks and earn profit."
+ },
+ {
+  "q": "What do we call the study of the economy as a whole?",
+  "correct": "Macroeconomics",
+  "wrong": [
+   "Microeconomics",
+   "Econometrics",
+   "Accounting"
+  ],
+  "why": "Macroeconomics looks at things like GDP, inflation and unemployment."
+ },
+ {
+  "q": "What does the demand curve usually show?",
+  "correct": "Price against quantity demanded, sloping downward",
+  "wrong": [
+   "Price against quantity supplied, sloping upward",
+   "Income against tax",
+   "Costs against revenue"
+  ],
+  "why": "As price falls, quantity demanded rises."
+ },
+ {
+  "q": "Which of these causes a shift in the demand curve to the right?",
+  "correct": "A rise in consumers' incomes",
+  "wrong": [
+   "A rise in the price of the good",
+   "A fall in the price of the good",
+   "A tax on the good"
+  ],
+  "why": "A change in anything other than the good's own price shifts demand."
+ },
+ {
+  "q": "If the price of a substitute good rises, what happens to demand for the original good?",
+  "correct": "It increases",
+  "wrong": [
+   "It decreases",
+   "It stays the same",
+   "It becomes zero"
+  ],
+  "why": "Consumers switch towards the cheaper alternative."
+ },
+ {
+  "q": "Which pair of goods are complements?",
+  "correct": "Cars and petrol",
+  "wrong": [
+   "Tea and coffee",
+   "Butter and margarine",
+   "Bus and train"
+  ],
+  "why": "Complements are used together, so a fall in one's price raises demand for the other."
+ },
+ {
+  "q": "What does the supply curve usually show?",
+  "correct": "As price rises, quantity supplied rises",
+  "wrong": [
+   "As price rises, quantity supplied falls",
+   "Price stays the same as quantity changes",
+   "Quantity supplied does not respond to price"
+  ],
+  "why": "Higher prices give producers an incentive to supply more."
+ },
+ {
+  "q": "What is the equilibrium price?",
+  "correct": "The price where demand equals supply",
+  "wrong": [
+   "The highest price possible",
+   "The lowest price possible",
+   "The price set by the government"
+  ],
+  "why": "At equilibrium the quantity demanded equals the quantity supplied."
+ },
+ {
+  "q": "If the price is above the equilibrium, what will there be?",
+  "correct": "A surplus",
+  "wrong": [
+   "A shortage",
+   "Equilibrium",
+   "Inflation"
+  ],
+  "why": "Quantity supplied exceeds quantity demanded."
+ },
+ {
+  "q": "What is a price ceiling?",
+  "correct": "A maximum legal price",
+  "wrong": [
+   "A minimum legal price",
+   "A tax on producers",
+   "A subsidy to consumers"
+  ],
+  "why": "A price ceiling sets the highest price that can be charged."
+ },
+ {
+  "q": "What is a subsidy?",
+  "correct": "Money paid by the government to producers to lower costs",
+  "wrong": [
+   "A tax on goods",
+   "A fee paid by consumers",
+   "A type of loan"
+  ],
+  "why": "A subsidy lowers production costs and shifts supply to the right."
+ },
+ {
+  "q": "What happens to supply if the cost of raw materials rises?",
+  "correct": "Supply decreases",
+  "wrong": [
+   "Supply increases",
+   "Supply is unchanged",
+   "Demand decreases"
+  ],
+  "why": "Higher costs shift the supply curve to the left."
+ },
+ {
+  "q": "What is meant by price inelastic demand?",
+  "correct": "Quantity demanded changes by a smaller percentage than price",
+  "wrong": [
+   "Quantity demanded changes by a larger percentage than price",
+   "Demand is infinitely responsive",
+   "Demand does not exist"
+  ],
+  "why": "An elasticity below 1 is inelastic."
+ },
+ {
+  "q": "Which of these goods tends to have inelastic demand?",
+  "correct": "Petrol",
+  "wrong": [
+   "Holidays",
+   "Designer clothes",
+   "Restaurant meals"
+  ],
+  "why": "Petrol is a necessity with few close substitutes in the short run."
+ },
+ {
+  "q": "Which factor makes demand for a good more elastic?",
+  "correct": "The availability of close substitutes",
+  "wrong": [
+   "The good being a necessity",
+   "The good being addictive",
+   "A very small price"
+  ],
+  "why": "If substitutes are available, customers can easily switch."
+ },
+ {
+  "q": "What is a perfectly competitive market characterised by?",
+  "correct": "Many buyers and sellers selling identical goods",
+  "wrong": [
+   "One seller and many buyers",
+   "A few large firms",
+   "Government control of prices"
+  ],
+  "why": "No single firm can influence the price."
+ },
+ {
+  "q": "What is an oligopoly?",
+  "correct": "A market dominated by a few large firms",
+  "wrong": [
+   "A market with one seller",
+   "A market with many small firms",
+   "A market with no firms"
+  ],
+  "why": "Oligopolies often have interdependent pricing decisions."
+ },
+ {
+  "q": "What is a cartel?",
+  "correct": "A group of firms that agree to fix prices",
+  "wrong": [
+   "A trade union",
+   "A government department",
+   "A consumer group"
+  ],
+  "why": "Cartels are generally illegal under competition law."
+ },
+ {
+  "q": "Which body in Ireland protects competition and consumers?",
+  "correct": "The CCPC",
+  "wrong": [
+   "The ESRI",
+   "The IMF",
+   "The CSO"
+  ],
+  "why": "The Competition and Consumer Protection Commission enforces competition law."
+ },
+ {
+  "q": "Which organisation produces Ireland's official statistics?",
+  "correct": "The Central Statistics Office (CSO)",
+  "wrong": [
+   "The Central Bank",
+   "The Revenue Commissioners",
+   "The ESRI"
+  ],
+  "why": "The CSO publishes data on prices, jobs, population and more."
+ },
+ {
+  "q": "What does CPI stand for?",
+  "correct": "Consumer Price Index",
+  "wrong": [
+   "Central Price Indicator",
+   "Customer Purchase Index",
+   "Currency Price Index"
+  ],
+  "why": "The CPI tracks the average change in prices of a basket of goods and services."
+ },
+ {
+  "q": "What is deflation?",
+  "correct": "A sustained fall in the general price level",
+  "wrong": [
+   "A rise in the general price level",
+   "A rise in unemployment",
+   "A fall in GDP"
+  ],
+  "why": "Under deflation, prices fall over time."
+ },
+ {
+  "q": "Which group usually loses most when inflation is high?",
+  "correct": "People on fixed incomes",
+  "wrong": [
+   "Borrowers with fixed rate loans",
+   "Owners of property",
+   "People who hold goods"
+  ],
+  "why": "Their incomes buy less as prices rise."
+ },
+ {
+  "q": "What is real GDP?",
+  "correct": "GDP adjusted for inflation",
+  "wrong": [
+   "GDP at current prices",
+   "GDP per person only",
+   "GDP without exports"
+  ],
+  "why": "Real GDP removes the effect of price changes."
+ },
+ {
+  "q": "Which is the best measure of living standards in Ireland, because multinational profits distort GDP?",
+  "correct": "GNI*",
+  "wrong": [
+   "GDP",
+   "CPI",
+   "GNP only"
+  ],
+  "why": "Modified gross national income (GNI*) removes some multinational distortions."
+ },
+ {
+  "q": "What is economic growth?",
+  "correct": "An increase in the output of an economy over time",
+  "wrong": [
+   "A fall in unemployment",
+   "A rise in prices",
+   "A fall in taxes"
+  ],
+  "why": "Growth is usually measured as the percentage change in real GDP."
+ },
+ {
+  "q": "What is the unemployment rate?",
+  "correct": "The percentage of the labour force without a job and looking for work",
+  "wrong": [
+   "The percentage of the population not working",
+   "The number of people on holiday",
+   "The percentage of students"
+  ],
+  "why": "Those not seeking work are not counted as unemployed."
+ },
+ {
+  "q": "Which type of unemployment results from a fall in demand for a type of industry?",
+  "correct": "Structural",
+  "wrong": [
+   "Frictional",
+   "Seasonal",
+   "Voluntary"
+  ],
+  "why": "Structural unemployment comes from changes in the pattern of demand or technology."
+ },
+ {
+  "q": "What is frictional unemployment?",
+  "correct": "Unemployment while people move between jobs",
+  "wrong": [
+   "Unemployment because of recession",
+   "Unemployment of old people",
+   "Unemployment due to weather"
+  ],
+  "why": "People are in between jobs while searching."
+ },
+ {
+  "q": "What is the main tax on income in Ireland?",
+  "correct": "Income tax",
+  "wrong": [
+   "VAT",
+   "Excise duty",
+   "Stamp duty"
+  ],
+  "why": "Income tax is the largest source of Irish exchequer revenue."
+ },
+ {
+  "q": "Which of these is a direct tax?",
+  "correct": "Income tax",
+  "wrong": [
+   "VAT",
+   "Excise duty",
+   "Customs duty"
+  ],
+  "why": "A direct tax is paid directly by the person it is levied on."
+ },
+ {
+  "q": "What is a budget deficit?",
+  "correct": "Government spending exceeds revenue",
+  "wrong": [
+   "Government revenue exceeds spending",
+   "Exports exceed imports",
+   "Inflation is rising"
+  ],
+  "why": "A deficit has to be financed by borrowing."
+ },
+ {
+  "q": "What is the national debt?",
+  "correct": "The total amount the government owes",
+  "wrong": [
+   "The government's yearly income",
+   "The money owed by households",
+   "The value of exports"
+  ],
+  "why": "It is the accumulated borrowing of the State."
+ },
+ {
+  "q": "What is fiscal policy?",
+  "correct": "Government use of taxes and spending to influence the economy",
+  "wrong": [
+   "The use of interest rates by the central bank",
+   "Controlling the supply of goods",
+   "Trade agreements"
+  ],
+  "why": "Fiscal policy is the government's tax and spending decisions."
+ },
+ {
+  "q": "What is monetary policy?",
+  "correct": "Using interest rates and the money supply to influence the economy",
+  "wrong": [
+   "Setting taxes",
+   "Building infrastructure",
+   "Regulating trade unions"
+  ],
+  "why": "Monetary policy is run by the central bank."
+ },
+ {
+  "q": "What happens to spending if interest rates rise?",
+  "correct": "It tends to fall",
+  "wrong": [
+   "It tends to rise",
+   "It stays exactly the same",
+   "It doubles"
+  ],
+  "why": "Borrowing becomes more expensive and saving more attractive."
+ },
+ {
+  "q": "What is a trade surplus?",
+  "correct": "Exports are greater than imports",
+  "wrong": [
+   "Imports are greater than exports",
+   "Exports equal imports",
+   "Government spending equals revenue"
+  ],
+  "why": "The value of goods and services exported exceeds what is imported."
+ },
+ {
+  "q": "What is an exchange rate?",
+  "correct": "The price of one currency in terms of another",
+  "wrong": [
+   "The tax on imports",
+   "The cost of living",
+   "The rate of interest on a loan"
+  ],
+  "why": "An exchange rate says how much of one currency buys another."
+ },
+ {
+  "q": "What is a tariff?",
+  "correct": "A tax on imported goods",
+  "wrong": [
+   "A subsidy for exports",
+   "A government loan",
+   "A tax on profits"
+  ],
+  "why": "Tariffs make imported goods more expensive."
+ },
+ {
+  "q": "What is the main purpose of the EU Single Market?",
+  "correct": "To allow free movement of goods, services, people and capital",
+  "wrong": [
+   "To set one tax rate",
+   "To make one currency",
+   "To make one language"
+  ],
+  "why": "The Single Market removes barriers to trade between member states."
+ },
+ {
+  "q": "What is comparative advantage?",
+  "correct": "Producing a good at a lower opportunity cost than others",
+  "wrong": [
+   "Being the cheapest in every good",
+   "Having the most workers",
+   "Having the largest economy"
+  ],
+  "why": "Countries gain by specialising in goods where their opportunity cost is lowest."
+ },
+ {
+  "q": "What is the multiplier effect?",
+  "correct": "An initial change in spending leads to a larger change in national income",
+  "wrong": [
+   "Prices fall when output rises",
+   "Taxes go up when incomes rise",
+   "Savings increase when interest falls"
+  ],
+  "why": "Each round of spending creates more income for others."
+ },
+ {
+  "q": "What is meant by the term 'economies of scale'?",
+  "correct": "Cost per unit falls as output rises",
+  "wrong": [
+   "Costs rise as output rises",
+   "Profit falls with output",
+   "Prices rise with output"
+  ],
+  "why": "Larger firms can spread fixed costs and buy in bulk."
+ },
+ {
+  "q": "What are external costs?",
+  "correct": "Costs imposed on third parties who are not part of a transaction",
+  "wrong": [
+   "Costs paid by the buyer",
+   "Costs paid by the seller",
+   "Costs of imports"
+  ],
+  "why": "Pollution is a common example of an external cost."
+ },
+ {
+  "q": "What is sustainable development?",
+  "correct": "Meeting today's needs without harming future generations",
+  "wrong": [
+   "Rapid growth at any cost",
+   "Zero growth",
+   "Using only renewable power"
+  ],
+  "why": "It balances economic, social and environmental needs."
+ },
+ {
+  "q": "Which of these is a use of progressive taxation?",
+  "correct": "To reduce income inequality",
+  "wrong": [
+   "To raise prices",
+   "To reduce exports",
+   "To increase unemployment"
+  ],
+  "why": "Higher earners pay a higher percentage of their income, which narrows the gap after tax."
+ },
+ {
+  "q": "What does the Lorenz curve show?",
+  "correct": "The distribution of income in a country",
+  "wrong": [
+   "The level of inflation",
+   "Price and quantity relationships",
+   "The rate of unemployment"
+  ],
+  "why": "The further the curve is from the line of equality, the more unequal the distribution."
+ }
+]

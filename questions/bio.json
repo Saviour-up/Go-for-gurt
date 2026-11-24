@@ -1,0 +1,642 @@
+[
+ {
+  "q": "Which organelle is the site of photosynthesis in a plant cell?",
+  "correct": "Chloroplast",
+  "wrong": [
+   "Mitochondrion",
+   "Ribosome",
+   "Vacuole"
+  ],
+  "why": "Chloroplasts contain chlorophyll, which absorbs the light energy used in photosynthesis."
+ },
+ {
+  "q": "Which enzyme breaks down starch into maltose?",
+  "correct": "Amylase",
+  "wrong": [
+   "Protease",
+   "Lipase",
+   "Catalase"
+  ],
+  "why": "Amylase digests starch. Protease acts on protein and lipase acts on fats."
+ },
+ {
+  "q": "Which substance in red blood cells carries oxygen around the body?",
+  "correct": "Haemoglobin",
+  "wrong": [
+   "Chlorophyll",
+   "Insulin",
+   "Keratin"
+  ],
+  "why": "Haemoglobin binds oxygen in the lungs and releases it in the tissues."
+ },
+ {
+  "q": "In DNA, which base pairs with adenine?",
+  "correct": "Thymine",
+  "wrong": [
+   "Cytosine",
+   "Guanine",
+   "Uracil"
+  ],
+  "why": "A pairs with T and C pairs with G. Uracil replaces thymine in RNA."
+ },
+ {
+  "q": "Water moves across a partially permeable membrane from a region of high water concentration to a region of low water concentration. What is this called?",
+  "correct": "Osmosis",
+  "wrong": [
+   "Diffusion",
+   "Active transport",
+   "Transpiration"
+  ],
+  "why": "That is the definition of osmosis. Diffusion covers the movement of other particles."
+ },
+ {
+  "q": "How many daughter cells does one cell produce by meiosis?",
+  "correct": "Four",
+  "wrong": [
+   "Two",
+   "Eight",
+   "One"
+  ],
+  "why": "Meiosis makes four genetically different cells, each with half the chromosome number."
+ },
+ {
+  "q": "What is the name of the process by which plants lose water vapour through their leaves?",
+  "correct": "Transpiration",
+  "wrong": [
+   "Respiration",
+   "Digestion",
+   "Germination"
+  ],
+  "why": "Transpiration is the loss of water vapour from the plant, mainly through the stomata."
+ },
+ {
+  "q": "Which blood vessels carry blood away from the heart?",
+  "correct": "Arteries",
+  "wrong": [
+   "Veins",
+   "Capillaries",
+   "Lymph vessels"
+  ],
+  "why": "Arteries carry blood away from the heart under high pressure. Veins carry it back."
+ },
+ {
+  "q": "Which part of the cell controls its activities and contains the DNA?",
+  "correct": "Nucleus",
+  "wrong": [
+   "Cell wall",
+   "Cytoplasm",
+   "Vacuole"
+  ],
+  "why": "The nucleus holds the chromosomes and controls the activities of the cell."
+ },
+ {
+  "q": "Which gas is released as a by-product of photosynthesis?",
+  "correct": "Oxygen",
+  "wrong": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "why": "Plants take in carbon dioxide and water and release oxygen."
+ },
+ {
+  "q": "What is an organism that makes its own food from simple inorganic substances called?",
+  "correct": "Producer",
+  "wrong": [
+   "Consumer",
+   "Decomposer",
+   "Parasite"
+  ],
+  "why": "Producers, such as green plants, make their own food. Consumers feed on other organisms."
+ },
+ {
+  "q": "Two heterozygous parents (Tt × Tt) have offspring. What fraction are expected to show the recessive trait?",
+  "correct": "One quarter",
+  "wrong": [
+   "One half",
+   "Three quarters",
+   "All of them"
+  ],
+  "why": "Tt × Tt gives TT, Tt, Tt and tt, so one in four offspring show the recessive trait."
+ },
+ {
+  "q": "What is the function of ribosomes?",
+  "correct": "Protein synthesis",
+  "wrong": [
+   "Photosynthesis",
+   "Lipid storage",
+   "Cell division"
+  ],
+  "why": "Ribosomes read mRNA and join amino acids together to make proteins."
+ },
+ {
+  "q": "Which cell structure controls what enters and leaves the cell?",
+  "correct": "Cell membrane",
+  "wrong": [
+   "Cell wall",
+   "Nucleus",
+   "Cytoplasm"
+  ],
+  "why": "The cell membrane is partially permeable and regulates the movement of substances in and out."
+ },
+ {
+  "q": "Which molecule is the main energy currency of the cell?",
+  "correct": "ATP",
+  "wrong": [
+   "DNA",
+   "Glucose",
+   "Chlorophyll"
+  ],
+  "why": "ATP releases energy when its terminal phosphate is removed and is used for most cell activities."
+ },
+ {
+  "q": "Which organelle releases most of a cell's energy in aerobic respiration?",
+  "correct": "Mitochondrion",
+  "wrong": [
+   "Golgi apparatus",
+   "Lysosome",
+   "Chloroplast"
+  ],
+  "why": "Most ATP is produced in the mitochondria during the later stages of aerobic respiration."
+ },
+ {
+  "q": "What is the name for an enzyme's special region where the substrate binds?",
+  "correct": "Active site",
+  "wrong": [
+   "Allosteric ring",
+   "Binding vacuole",
+   "Substrate core"
+  ],
+  "why": "The shape of the active site fits one substrate, which makes enzymes specific."
+ },
+ {
+  "q": "What happens to most enzymes if the temperature gets too high?",
+  "correct": "They denature",
+  "wrong": [
+   "They speed up forever",
+   "They become substrates",
+   "They change into DNA"
+  ],
+  "why": "High temperature changes the shape of the active site, so the enzyme stops working."
+ },
+ {
+  "q": "Which sugar is the main product of photosynthesis?",
+  "correct": "Glucose",
+  "wrong": [
+   "Sucrose",
+   "Lactose",
+   "Maltose"
+  ],
+  "why": "Photosynthesis makes glucose from carbon dioxide and water using light energy."
+ },
+ {
+  "q": "Where in a chloroplast does the light-dependent stage take place?",
+  "correct": "Grana (thylakoid membranes)",
+  "wrong": [
+   "Stroma",
+   "Nucleus",
+   "Cell wall"
+  ],
+  "why": "Light is absorbed by chlorophyll in the thylakoid membranes of the grana."
+ },
+ {
+  "q": "Which gas is taken in by plants for photosynthesis?",
+  "correct": "Carbon dioxide",
+  "wrong": [
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen"
+  ],
+  "why": "Carbon dioxide enters leaves through stomata and is used to make glucose."
+ },
+ {
+  "q": "What is the correct word equation for aerobic respiration?",
+  "correct": "Glucose + oxygen -> carbon dioxide + water + energy",
+  "wrong": [
+   "Glucose + carbon dioxide -> oxygen + water",
+   "Oxygen + water -> glucose + energy",
+   "Glucose -> alcohol + carbon dioxide"
+  ],
+  "why": "Aerobic respiration uses oxygen to release energy from glucose, producing carbon dioxide and water."
+ },
+ {
+  "q": "What is produced when yeast respires anaerobically?",
+  "correct": "Ethanol and carbon dioxide",
+  "wrong": [
+   "Lactic acid and water",
+   "Glucose and oxygen",
+   "Water and oxygen"
+  ],
+  "why": "Yeast ferments glucose to ethanol and carbon dioxide when there is no oxygen."
+ },
+ {
+  "q": "Which organ produces bile?",
+  "correct": "Liver",
+  "wrong": [
+   "Pancreas",
+   "Stomach",
+   "Gall bladder"
+  ],
+  "why": "Bile is made in the liver and stored in the gall bladder."
+ },
+ {
+  "q": "What does bile do in digestion?",
+  "correct": "Emulsifies fats",
+  "wrong": [
+   "Digests proteins",
+   "Digests starch",
+   "Neutralises amylase"
+  ],
+  "why": "Bile breaks large fat droplets into smaller ones, giving lipase a larger surface area to work on."
+ },
+ {
+  "q": "Where does most absorption of digested food take place?",
+  "correct": "Small intestine",
+  "wrong": [
+   "Stomach",
+   "Large intestine",
+   "Oesophagus"
+  ],
+  "why": "The small intestine has villi that give a very large surface area for absorption."
+ },
+ {
+  "q": "Which part of the blood fights infection by engulfing pathogens?",
+  "correct": "White blood cells",
+  "wrong": [
+   "Red blood cells",
+   "Platelets",
+   "Plasma"
+  ],
+  "why": "Phagocytes are white blood cells that engulf and digest pathogens."
+ },
+ {
+  "q": "Which blood component is mainly involved in clotting?",
+  "correct": "Platelets",
+  "wrong": [
+   "Red blood cells",
+   "Plasma proteins only",
+   "Lymphocytes"
+  ],
+  "why": "Platelets help form a clot at a wound by triggering the production of fibrin."
+ },
+ {
+  "q": "Which chamber of the heart pumps blood to the whole body?",
+  "correct": "Left ventricle",
+  "wrong": [
+   "Right ventricle",
+   "Left atrium",
+   "Right atrium"
+  ],
+  "why": "The left ventricle has the thickest wall because it pumps blood around the body."
+ },
+ {
+  "q": "Which vessels carry blood from the heart to the lungs?",
+  "correct": "Pulmonary arteries",
+  "wrong": [
+   "Pulmonary veins",
+   "Aorta",
+   "Vena cava"
+  ],
+  "why": "The pulmonary arteries carry deoxygenated blood from the right ventricle to the lungs."
+ },
+ {
+  "q": "What is the job of the valves in the heart and veins?",
+  "correct": "Prevent backflow of blood",
+  "wrong": [
+   "Pump the blood",
+   "Add oxygen to the blood",
+   "Filter the blood"
+  ],
+  "why": "Valves keep blood moving in one direction."
+ },
+ {
+  "q": "Where does gas exchange take place in the lungs?",
+  "correct": "Alveoli",
+  "wrong": [
+   "Bronchi",
+   "Trachea",
+   "Diaphragm"
+  ],
+  "why": "Alveoli have thin walls and a large surface area for oxygen and carbon dioxide to diffuse across."
+ },
+ {
+  "q": "Which muscle contracts and flattens when we breathe in?",
+  "correct": "Diaphragm",
+  "wrong": [
+   "Heart",
+   "Biceps",
+   "Oesophagus"
+  ],
+  "why": "The diaphragm flattens and the ribs move up and out, so air is drawn into the lungs."
+ },
+ {
+  "q": "Which organ filters the blood and produces urine?",
+  "correct": "Kidney",
+  "wrong": [
+   "Liver",
+   "Bladder",
+   "Pancreas"
+  ],
+  "why": "The kidneys remove urea and excess water and salts from the blood to form urine."
+ },
+ {
+  "q": "Which hormone lowers blood glucose levels?",
+  "correct": "Insulin",
+  "wrong": [
+   "Glucagon",
+   "Adrenaline",
+   "Thyroxine"
+  ],
+  "why": "Insulin, made in the pancreas, causes cells and the liver to take up glucose."
+ },
+ {
+  "q": "Which gland is known as the master gland of the body?",
+  "correct": "Pituitary gland",
+  "wrong": [
+   "Thyroid gland",
+   "Adrenal gland",
+   "Pancreas"
+  ],
+  "why": "The pituitary gland releases hormones that control many other glands."
+ },
+ {
+  "q": "What is the name of the gap between two neurons?",
+  "correct": "Synapse",
+  "wrong": [
+   "Axon",
+   "Myelin sheath",
+   "Dendrite"
+  ],
+  "why": "Chemicals called neurotransmitters cross the synapse to pass the signal on."
+ },
+ {
+  "q": "Which part of the brain controls balance and coordination?",
+  "correct": "Cerebellum",
+  "wrong": [
+   "Cerebrum",
+   "Medulla",
+   "Hypothalamus"
+  ],
+  "why": "The cerebellum coordinates movement and balance."
+ },
+ {
+  "q": "A reflex action is best described as:",
+  "correct": "Fast and automatic",
+  "wrong": [
+   "Slow and learned",
+   "Controlled by conscious thought",
+   "Only found in plants"
+  ],
+  "why": "A reflex does not need to be thought about, which makes it quick and protective."
+ },
+ {
+  "q": "Which type of cell division produces gametes?",
+  "correct": "Meiosis",
+  "wrong": [
+   "Mitosis",
+   "Binary fission",
+   "Budding"
+  ],
+  "why": "Meiosis halves the chromosome number to make sex cells."
+ },
+ {
+  "q": "What is the role of mitosis?",
+  "correct": "Growth and repair",
+  "wrong": [
+   "Making gametes",
+   "Protein synthesis",
+   "Digestion"
+  ],
+  "why": "Mitosis makes genetically identical daughter cells for growth and repair."
+ },
+ {
+  "q": "What is the shape of a DNA molecule?",
+  "correct": "Double helix",
+  "wrong": [
+   "Single strand",
+   "Triangle",
+   "Closed ring only"
+  ],
+  "why": "DNA is two strands of nucleotides twisted into a double helix."
+ },
+ {
+  "q": "What name is given to a section of DNA that codes for a protein?",
+  "correct": "Gene",
+  "wrong": [
+   "Chromosome",
+   "Allele",
+   "Genome"
+  ],
+  "why": "A gene is a length of DNA with the code for a particular protein."
+ },
+ {
+  "q": "What are different forms of the same gene called?",
+  "correct": "Alleles",
+  "wrong": [
+   "Chromosomes",
+   "Genomes",
+   "Codons"
+  ],
+  "why": "Alleles occupy the same position on homologous chromosomes."
+ },
+ {
+  "q": "Which term describes an organism with two identical alleles for a gene?",
+  "correct": "Homozygous",
+  "wrong": [
+   "Heterozygous",
+   "Hemizygous",
+   "Haploid"
+  ],
+  "why": "A homozygous organism has two copies of the same allele."
+ },
+ {
+  "q": "Where is DNA found in a human cell?",
+  "correct": "Nucleus",
+  "wrong": [
+   "Ribosome",
+   "Cell membrane",
+   "Vacuole"
+  ],
+  "why": "In eukaryotic cells most DNA is in the chromosomes in the nucleus."
+ },
+ {
+  "q": "What does mRNA do?",
+  "correct": "Carries the code from DNA to the ribosome",
+  "wrong": [
+   "Stores genetic information permanently",
+   "Builds cell walls",
+   "Digests proteins"
+  ],
+  "why": "mRNA is copied from DNA in transcription and carries the code to a ribosome."
+ },
+ {
+  "q": "Which scientist is known for using pea plants to study inheritance?",
+  "correct": "Gregor Mendel",
+  "wrong": [
+   "Charles Darwin",
+   "Louis Pasteur",
+   "James Watson"
+  ],
+  "why": "Mendel's pea plant experiments led to the basic laws of inheritance."
+ },
+ {
+  "q": "What word describes the process of natural selection leading to change over generations?",
+  "correct": "Evolution",
+  "wrong": [
+   "Succession",
+   "Diffusion",
+   "Osmosis"
+  ],
+  "why": "Organisms best suited to their environment survive and pass on their genes, so a population changes over time."
+ },
+ {
+  "q": "What is a population?",
+  "correct": "All the members of one species living in an area",
+  "wrong": [
+   "All the species in an area",
+   "All the organisms and their habitat",
+   "All the plants in a forest"
+  ],
+  "why": "A population is a group of the same species living in the same place."
+ },
+ {
+  "q": "What is an ecosystem?",
+  "correct": "A community and its non-living environment",
+  "wrong": [
+   "A group of the same species",
+   "A single food chain",
+   "A place with no living things"
+  ],
+  "why": "An ecosystem is the community of living things together with their abiotic environment."
+ },
+ {
+  "q": "Which of these is a decomposer?",
+  "correct": "Fungus",
+  "wrong": [
+   "Rabbit",
+   "Oak tree",
+   "Hawk"
+  ],
+  "why": "Decomposers such as fungi and bacteria break down dead matter and return nutrients to the soil."
+ },
+ {
+  "q": "In a food chain, which organisms are always the first link?",
+  "correct": "Producers",
+  "wrong": [
+   "Primary consumers",
+   "Decomposers",
+   "Secondary consumers"
+  ],
+  "why": "Producers make their own food, usually by photosynthesis, and start the food chain."
+ },
+ {
+  "q": "What does a pyramid of numbers show?",
+  "correct": "The number of organisms at each trophic level",
+  "wrong": [
+   "The mass of each organism",
+   "Energy flowing between levels",
+   "The age of each organism"
+  ],
+  "why": "Each bar represents how many individuals are at that feeding level."
+ },
+ {
+  "q": "Which is an abiotic factor?",
+  "correct": "Soil pH",
+  "wrong": [
+   "Predation",
+   "Competition",
+   "Disease"
+  ],
+  "why": "Abiotic factors are non-living, such as light, temperature and pH."
+ },
+ {
+  "q": "What is the name for plant water loss through the leaves?",
+  "correct": "Transpiration",
+  "wrong": [
+   "Translocation",
+   "Germination",
+   "Fertilisation"
+  ],
+  "why": "Water evaporates from the leaves through the stomata, pulling more water up the xylem."
+ },
+ {
+  "q": "Which tissue carries water up a plant?",
+  "correct": "Xylem",
+  "wrong": [
+   "Phloem",
+   "Epidermis",
+   "Cambium"
+  ],
+  "why": "Xylem vessels carry water and minerals from roots to leaves."
+ },
+ {
+  "q": "Which structures control the opening and closing of stomata?",
+  "correct": "Guard cells",
+  "wrong": [
+   "Root hairs",
+   "Palisade cells",
+   "Companion cells"
+  ],
+  "why": "Guard cells change shape to open or close the stomata."
+ },
+ {
+  "q": "What is the function of root hairs?",
+  "correct": "Absorb water and minerals",
+  "wrong": [
+   "Make food",
+   "Transport sugars",
+   "Store starch only"
+  ],
+  "why": "Root hairs increase the surface area for absorption."
+ },
+ {
+  "q": "What is the correct order of the stages in the life of a flowering plant seed?",
+  "correct": "Germination, growth, flowering, fertilisation",
+  "wrong": [
+   "Fertilisation, germination, flowering, growth",
+   "Growth, fertilisation, germination, flowering",
+   "Flowering, germination, growth, fertilisation"
+  ],
+  "why": "A seed germinates, the plant grows and flowers, and fertilisation then forms new seeds."
+ },
+ {
+  "q": "What is pollination?",
+  "correct": "Transfer of pollen from anther to stigma",
+  "wrong": [
+   "Fusion of gametes",
+   "Seed dispersal by wind",
+   "Growth of a pollen tube only"
+  ],
+  "why": "Pollination is the transfer of pollen to a stigma, which comes before fertilisation."
+ },
+ {
+  "q": "Which microbe is used to make bread rise?",
+  "correct": "Yeast",
+  "wrong": [
+   "Salmonella",
+   "Penicillium",
+   "E. coli"
+  ],
+  "why": "Yeast produces carbon dioxide in fermentation, which makes the dough rise."
+ },
+ {
+  "q": "Which organism produces the antibiotic penicillin?",
+  "correct": "Penicillium",
+  "wrong": [
+   "Yeast",
+   "Rhizobium",
+   "Lactobacillus"
+  ],
+  "why": "Alexander Fleming found that Penicillium mould killed bacteria."
+ },
+ {
+  "q": "What is the purpose of a restriction enzyme in genetic engineering?",
+  "correct": "To cut DNA at specific sequences",
+  "wrong": [
+   "To join DNA fragments",
+   "To copy proteins",
+   "To digest starch"
+  ],
+  "why": "Restriction enzymes cut DNA at specific base sequences, leaving ends that can be joined to other fragments."
+ }
+]

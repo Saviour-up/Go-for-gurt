@@ -1,0 +1,632 @@
+[
+ {
+  "q": "Who wrote the poem \"Digging\"?",
+  "correct": "Seamus Heaney",
+  "wrong": [
+   "W.B. Yeats",
+   "Patrick Kavanagh",
+   "Eavan Boland"
+  ],
+  "why": "Heaney compares his pen to his father's spade in \"Digging\", from Death of a Naturalist."
+ },
+ {
+  "q": "A word that sounds like the noise it describes, such as \"buzz\" or \"crash\", is an example of what?",
+  "correct": "Onomatopoeia",
+  "wrong": [
+   "Alliteration",
+   "Assonance",
+   "Personification"
+  ],
+  "why": "In onomatopoeia the sound of the word imitates the sound it names."
+ },
+ {
+  "q": "In Macbeth, who says \"Out, damned spot!\"?",
+  "correct": "Lady Macbeth",
+  "wrong": [
+   "Macbeth",
+   "Banquo",
+   "Lady Macduff"
+  ],
+  "why": "Lady Macbeth says it while sleepwalking, troubled by guilt over Duncan's murder."
+ },
+ {
+  "q": "Which term describes saying that one thing is another, with no \"like\" or \"as\"?",
+  "correct": "Metaphor",
+  "wrong": [
+   "Simile",
+   "Hyperbole",
+   "Irony"
+  ],
+  "why": "A metaphor states that one thing is another. A simile uses \"like\" or \"as\"."
+ },
+ {
+  "q": "Who wrote the novel Pride and Prejudice?",
+  "correct": "Jane Austen",
+  "wrong": [
+   "Charlotte Brontë",
+   "Mary Shelley",
+   "George Eliot"
+  ],
+  "why": "Jane Austen published Pride and Prejudice in 1813."
+ },
+ {
+  "q": "A poem with fourteen lines is called a what?",
+  "correct": "Sonnet",
+  "wrong": [
+   "Ballad",
+   "Haiku",
+   "Elegy"
+  ],
+  "why": "A sonnet has fourteen lines. Shakespearean and Petrarchan sonnets are two common forms."
+ },
+ {
+  "q": "Who wrote the novel The Great Gatsby?",
+  "correct": "F. Scott Fitzgerald",
+  "wrong": [
+   "Ernest Hemingway",
+   "John Steinbeck",
+   "Mark Twain"
+  ],
+  "why": "F. Scott Fitzgerald published The Great Gatsby in 1925."
+ },
+ {
+  "q": "What is it called when nearby words begin with the same consonant sound, as in \"wild and windy weather\"?",
+  "correct": "Alliteration",
+  "wrong": [
+   "Assonance",
+   "Rhyme",
+   "Simile"
+  ],
+  "why": "Alliteration repeats initial consonant sounds. Assonance repeats vowel sounds."
+ },
+ {
+  "q": "What is the term for the central character the audience follows in a story?",
+  "correct": "Protagonist",
+  "wrong": [
+   "Antagonist",
+   "Narrator",
+   "Foil"
+  ],
+  "why": "The protagonist is the main character. The antagonist is the character who opposes them."
+ },
+ {
+  "q": "Who wrote the play Translations?",
+  "correct": "Brian Friel",
+  "wrong": [
+   "Samuel Beckett",
+   "J.M. Synge",
+   "Seán O'Casey"
+  ],
+  "why": "Brian Friel wrote Translations, first staged in 1980 and set in a hedge school in County Donegal."
+ },
+ {
+  "q": "What is it called when a character speaks their thoughts aloud, usually alone on stage?",
+  "correct": "Soliloquy",
+  "wrong": [
+   "Aside",
+   "Prologue",
+   "Epilogue"
+  ],
+  "why": "In a soliloquy a character speaks their thoughts aloud so the audience hears them."
+ },
+ {
+  "q": "Which of these Shakespeare plays is a tragedy?",
+  "correct": "Hamlet",
+  "wrong": [
+   "A Midsummer Night's Dream",
+   "Twelfth Night",
+   "The Tempest"
+  ],
+  "why": "Hamlet is a tragedy. The other three are comedies or romances."
+ },
+ {
+  "q": "What is a simile?",
+  "correct": "A comparison using 'like' or 'as'",
+  "wrong": [
+   "A comparison saying one thing is another",
+   "Giving human qualities to an object",
+   "A deliberate exaggeration"
+  ],
+  "why": "For example: 'as brave as a lion'."
+ },
+ {
+  "q": "What is personification?",
+  "correct": "Giving human qualities to something non-human",
+  "wrong": [
+   "A comparison using 'like' or 'as'",
+   "A word that imitates a sound",
+   "Repeating a consonant sound"
+  ],
+  "why": "For example: 'the wind whispered'."
+ },
+ {
+  "q": "What is hyperbole?",
+  "correct": "Deliberate exaggeration for effect",
+  "wrong": [
+   "Understatement",
+   "A comparison using 'as'",
+   "A repeated vowel sound"
+  ],
+  "why": "For example: 'I've told you a million times'."
+ },
+ {
+  "q": "What is irony?",
+  "correct": "When the opposite of what is expected happens or is said",
+  "wrong": [
+   "A rhyme at the end of a line",
+   "A direct address to the reader",
+   "A repeated phrase"
+  ],
+  "why": "Irony involves a gap between what is said or expected and what is meant or happens."
+ },
+ {
+  "q": "What is a theme in a literary text?",
+  "correct": "A central idea or message",
+  "wrong": [
+   "The setting",
+   "The title",
+   "The length"
+  ],
+  "why": "Themes include love, power and loss."
+ },
+ {
+  "q": "What is the term for the time and place of a story?",
+  "correct": "Setting",
+  "wrong": [
+   "Plot",
+   "Theme",
+   "Tone"
+  ],
+  "why": "Setting is where and when the action happens."
+ },
+ {
+  "q": "What does 'tone' refer to in a text?",
+  "correct": "The writer's attitude or mood",
+  "wrong": [
+   "The rhyme scheme",
+   "The length of a poem",
+   "The names of characters"
+  ],
+  "why": "Tone shows how the writer feels about the subject."
+ },
+ {
+  "q": "What is a stanza?",
+  "correct": "A group of lines in a poem",
+  "wrong": [
+   "A line in a play",
+   "A chapter of a novel",
+   "A type of rhyme"
+  ],
+  "why": "Stanzas are like paragraphs in a poem."
+ },
+ {
+  "q": "What is free verse?",
+  "correct": "Poetry with no fixed rhyme or rhythm",
+  "wrong": [
+   "Poetry with a strict rhyme scheme",
+   "A poem of 14 lines",
+   "A poem about nature"
+  ],
+  "why": "Free verse does not follow set metre or rhyme."
+ },
+ {
+  "q": "What is imagery?",
+  "correct": "Descriptive language that appeals to the senses",
+  "wrong": [
+   "The rhythm of a poem",
+   "The plot of a story",
+   "A type of rhyme"
+  ],
+  "why": "Imagery helps the reader to see, hear, smell, taste or feel what is described."
+ },
+ {
+  "q": "What is an oxymoron?",
+  "correct": "Two contradictory words used together",
+  "wrong": [
+   "A very long sentence",
+   "A repeated word",
+   "A word that sounds like its meaning"
+  ],
+  "why": "For example: 'deafening silence'."
+ },
+ {
+  "q": "What is a motif?",
+  "correct": "A recurring image, idea or symbol",
+  "wrong": [
+   "A single character",
+   "The last line of a poem",
+   "A type of verse"
+  ],
+  "why": "A motif is repeated throughout a text to support the theme."
+ },
+ {
+  "q": "What is the climax of a story?",
+  "correct": "The point of greatest tension",
+  "wrong": [
+   "The first scene",
+   "The ending",
+   "The setting"
+  ],
+  "why": "The climax is the turning point or peak of the action."
+ },
+ {
+  "q": "What is a narrator?",
+  "correct": "The voice that tells the story",
+  "wrong": [
+   "The author's friend",
+   "The main character always",
+   "The reader"
+  ],
+  "why": "The narrator may be a character or an outside voice."
+ },
+ {
+  "q": "What is first-person narration?",
+  "correct": "The story is told using 'I'",
+  "wrong": [
+   "The story is told using 'he' or 'she'",
+   "The story is told using 'you'",
+   "The story has no narrator"
+  ],
+  "why": "A first-person narrator is a character in the story."
+ },
+ {
+  "q": "What is a persuasive text trying to do?",
+  "correct": "Convince the reader to agree",
+  "wrong": [
+   "Describe a place",
+   "Tell a joke",
+   "Give an instruction"
+  ],
+  "why": "Persuasive writing uses rhetoric to influence the audience."
+ },
+ {
+  "q": "What is the purpose of a formal letter's opening 'Dear Sir/Madam'?",
+  "correct": "To address the recipient politely",
+  "wrong": [
+   "To state the problem",
+   "To close the letter",
+   "To give your address"
+  ],
+  "why": "A formal letter opens with a polite greeting."
+ },
+ {
+  "q": "Which Shakespeare play features the characters Romeo and Juliet?",
+  "correct": "Romeo and Juliet",
+  "wrong": [
+   "Hamlet",
+   "Othello",
+   "Macbeth"
+  ],
+  "why": "Romeo and Juliet is a tragedy about two young lovers from feuding families."
+ },
+ {
+  "q": "In Hamlet, what is the name of Hamlet's uncle who becomes king?",
+  "correct": "Claudius",
+  "wrong": [
+   "Polonius",
+   "Laertes",
+   "Horatio"
+  ],
+  "why": "Claudius murders King Hamlet and marries Gertrude."
+ },
+ {
+  "q": "In Macbeth, what do the three witches tell Macbeth he will become?",
+  "correct": "King of Scotland",
+  "wrong": [
+   "A bishop",
+   "A Roman emperor",
+   "A farmer"
+  ],
+  "why": "The witches' prophecy sparks Macbeth's ambition."
+ },
+ {
+  "q": "Which Shakespeare play includes the line 'To be, or not to be'?",
+  "correct": "Hamlet",
+  "wrong": [
+   "Macbeth",
+   "King Lear",
+   "The Tempest"
+  ],
+  "why": "It begins Hamlet's famous soliloquy."
+ },
+ {
+  "q": "Which poet wrote 'Mid-Term Break'?",
+  "correct": "Seamus Heaney",
+  "wrong": [
+   "Patrick Kavanagh",
+   "W. B. Yeats",
+   "Eavan Boland"
+  ],
+  "why": "It is a poem about the death of Heaney's younger brother."
+ },
+ {
+  "q": "Which poet wrote 'The Lake Isle of Innisfree'?",
+  "correct": "W. B. Yeats",
+  "wrong": [
+   "Seamus Heaney",
+   "Philip Larkin",
+   "Patrick Kavanagh"
+  ],
+  "why": "Yeats wrote about a longing for peace in nature."
+ },
+ {
+  "q": "Which poet wrote 'Daffodils' ('I wandered lonely as a cloud')?",
+  "correct": "William Wordsworth",
+  "wrong": [
+   "John Keats",
+   "Robert Frost",
+   "Emily Dickinson"
+  ],
+  "why": "It is a Romantic poem about nature and memory."
+ },
+ {
+  "q": "Who wrote 'The Road Not Taken'?",
+  "correct": "Robert Frost",
+  "wrong": [
+   "Sylvia Plath",
+   "T. S. Eliot",
+   "Philip Larkin"
+  ],
+  "why": "The poem reflects on choices in life."
+ },
+ {
+  "q": "Who wrote the poem 'Daddy'?",
+  "correct": "Sylvia Plath",
+  "wrong": [
+   "Adrienne Rich",
+   "Eavan Boland",
+   "Elizabeth Bishop"
+  ],
+  "why": "It is a well-known confessional poem."
+ },
+ {
+  "q": "Who wrote the novel 1984?",
+  "correct": "George Orwell",
+  "wrong": [
+   "Aldous Huxley",
+   "Ray Bradbury",
+   "H. G. Wells"
+  ],
+  "why": "Orwell's novel imagines a totalitarian state under Big Brother."
+ },
+ {
+  "q": "Who wrote 'To Kill a Mockingbird'?",
+  "correct": "Harper Lee",
+  "wrong": [
+   "Truman Capote",
+   "Mark Twain",
+   "J. D. Salinger"
+  ],
+  "why": "The novel is set in the American South and deals with racial injustice."
+ },
+ {
+  "q": "Who wrote the play 'A Doll's House'?",
+  "correct": "Henrik Ibsen",
+  "wrong": [
+   "August Strindberg",
+   "Anton Chekhov",
+   "Oscar Wilde"
+  ],
+  "why": "Nora is the main character in Ibsen's play."
+ },
+ {
+  "q": "Who wrote 'Pygmalion'?",
+  "correct": "George Bernard Shaw",
+  "wrong": [
+   "Oscar Wilde",
+   "J. M. Synge",
+   "Samuel Beckett"
+  ],
+  "why": "Pygmalion is a play about language and class."
+ },
+ {
+  "q": "Who wrote 'The Playboy of the Western World'?",
+  "correct": "J. M. Synge",
+  "wrong": [
+   "Brian Friel",
+   "Sean O'Casey",
+   "Tom Murphy"
+  ],
+  "why": "It caused riots at the Abbey Theatre in 1907."
+ },
+ {
+  "q": "Who wrote the novel 'Wuthering Heights'?",
+  "correct": "Emily Bronte",
+  "wrong": [
+   "Charlotte Bronte",
+   "Jane Austen",
+   "George Eliot"
+  ],
+  "why": "It is a novel about Heathcliff and Catherine."
+ },
+ {
+  "q": "Who wrote 'Jane Eyre'?",
+  "correct": "Charlotte Bronte",
+  "wrong": [
+   "Emily Bronte",
+   "Jane Austen",
+   "Mary Shelley"
+  ],
+  "why": "Jane Eyre follows an orphaned girl who becomes a governess."
+ },
+ {
+  "q": "Who wrote 'Frankenstein'?",
+  "correct": "Mary Shelley",
+  "wrong": [
+   "Bram Stoker",
+   "Charles Dickens",
+   "Jane Austen"
+  ],
+  "why": "It tells of a scientist who creates a living being."
+ },
+ {
+  "q": "Who wrote 'Dracula'?",
+  "correct": "Bram Stoker",
+  "wrong": [
+   "Mary Shelley",
+   "Oscar Wilde",
+   "Robert Louis Stevenson"
+  ],
+  "why": "Stoker was born in Dublin."
+ },
+ {
+  "q": "Who wrote 'The Picture of Dorian Gray'?",
+  "correct": "Oscar Wilde",
+  "wrong": [
+   "Bram Stoker",
+   "George Bernard Shaw",
+   "James Joyce"
+  ],
+  "why": "The novel explores vanity and moral corruption."
+ },
+ {
+  "q": "Who wrote 'Dubliners'?",
+  "correct": "James Joyce",
+  "wrong": [
+   "Samuel Beckett",
+   "W. B. Yeats",
+   "Flann O'Brien"
+  ],
+  "why": "Dubliners is a collection of short stories about ordinary life in Dublin."
+ },
+ {
+  "q": "Who wrote 'Waiting for Godot'?",
+  "correct": "Samuel Beckett",
+  "wrong": [
+   "Harold Pinter",
+   "Brian Friel",
+   "Tom Stoppard"
+  ],
+  "why": "It is a play in which two characters wait for someone who never arrives."
+ },
+ {
+  "q": "Who wrote 'Great Expectations'?",
+  "correct": "Charles Dickens",
+  "wrong": [
+   "Thomas Hardy",
+   "George Eliot",
+   "Anthony Trollope"
+  ],
+  "why": "Pip is the narrator of the novel."
+ },
+ {
+  "q": "Who wrote the play 'Death of a Salesman'?",
+  "correct": "Arthur Miller",
+  "wrong": [
+   "Tennessee Williams",
+   "Eugene O'Neill",
+   "Edward Albee"
+  ],
+  "why": "Willy Loman is the central character."
+ },
+ {
+  "q": "Who wrote 'A Streetcar Named Desire'?",
+  "correct": "Tennessee Williams",
+  "wrong": [
+   "Arthur Miller",
+   "Eugene O'Neill",
+   "Thornton Wilder"
+  ],
+  "why": "Blanche DuBois is the play's central character."
+ },
+ {
+  "q": "What does the word 'protagonist' mean?",
+  "correct": "The main character",
+  "wrong": [
+   "The villain",
+   "The narrator",
+   "A minor character"
+  ],
+  "why": "The protagonist is the central character of a story."
+ },
+ {
+  "q": "What does the word 'antagonist' mean?",
+  "correct": "The character who opposes the protagonist",
+  "wrong": [
+   "The narrator",
+   "The hero",
+   "A minor character"
+  ],
+  "why": "The antagonist creates conflict for the main character."
+ },
+ {
+  "q": "In a play, what are stage directions?",
+  "correct": "Instructions to the actors and director",
+  "wrong": [
+   "The playwright's biography",
+   "The audience's reviews",
+   "The title page"
+  ],
+  "why": "They describe movement, tone and setting."
+ },
+ {
+  "q": "What is a monologue?",
+  "correct": "A long speech by one character",
+  "wrong": [
+   "A conversation between two characters",
+   "A silent scene",
+   "A group song"
+  ],
+  "why": "A monologue is spoken by one person, often to others."
+ },
+ {
+  "q": "What is a prologue?",
+  "correct": "An introduction before the main story",
+  "wrong": [
+   "The final scene",
+   "A type of rhyme",
+   "A speech by the villain"
+  ],
+  "why": "A prologue sets up the story."
+ },
+ {
+  "q": "What is a genre?",
+  "correct": "A category of writing such as tragedy or comedy",
+  "wrong": [
+   "A type of rhyme",
+   "A character",
+   "A paragraph"
+  ],
+  "why": "Genre groups texts by style and subject."
+ },
+ {
+  "q": "What is the difference between 'its' and 'it's'?",
+  "correct": "'It's' means 'it is'; 'its' shows possession",
+  "wrong": [
+   "'Its' means 'it is'; 'it's' shows possession",
+   "They mean the same thing",
+   "'It's' is always wrong"
+  ],
+  "why": "'It's' is a contraction of 'it is' or 'it has'."
+ },
+ {
+  "q": "What is a topic sentence?",
+  "correct": "The sentence that states the main idea of a paragraph",
+  "wrong": [
+   "The last sentence of an essay",
+   "A quotation",
+   "The title"
+  ],
+  "why": "A topic sentence introduces what the paragraph is about."
+ },
+ {
+  "q": "Which of these is a complex sentence?",
+  "correct": "Although it rained, we went out.",
+  "wrong": [
+   "We went out.",
+   "It rained.",
+   "We went out and it rained."
+  ],
+  "why": "A complex sentence has a main clause and a subordinate clause."
+ },
+ {
+  "q": "What does 'bias' mean in a media text?",
+  "correct": "A one-sided or unfair view",
+  "wrong": [
+   "A balanced argument",
+   "A fact",
+   "A headline"
+  ],
+  "why": "Bias favours one side over another."
+ }
+]

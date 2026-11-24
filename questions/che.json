@@ -1,0 +1,662 @@
+[
+ {
+  "q": "What does the atomic number of an element tell you?",
+  "correct": "The number of protons in the nucleus",
+  "wrong": [
+   "The number of neutrons in the nucleus",
+   "The total number of protons and neutrons",
+   "The number of outer electrons"
+  ],
+  "why": "The atomic number is the number of protons. It identifies the element."
+ },
+ {
+  "q": "Which type of bonding involves atoms sharing pairs of electrons?",
+  "correct": "Covalent",
+  "wrong": [
+   "Ionic",
+   "Metallic",
+   "Hydrogen"
+  ],
+  "why": "In a covalent bond two atoms share a pair of electrons. Ionic bonding involves transferring electrons."
+ },
+ {
+  "q": "What is the pH of a neutral solution at 25 °C?",
+  "correct": "7",
+  "wrong": [
+   "0",
+   "1",
+   "14"
+  ],
+  "why": "A pH of 7 is neutral. Below 7 is acidic and above 7 is basic."
+ },
+ {
+  "q": "Which gas is given off when magnesium reacts with dilute hydrochloric acid?",
+  "correct": "Hydrogen",
+  "wrong": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Chlorine"
+  ],
+  "why": "Metal plus acid gives a salt and hydrogen. Hydrogen gives a squeaky pop with a lighted splint."
+ },
+ {
+  "q": "Which technique separates a mixture of liquids with different boiling points?",
+  "correct": "Distillation",
+  "wrong": [
+   "Filtration",
+   "Decanting",
+   "Chromatography"
+  ],
+  "why": "Distillation boils off the liquid with the lower boiling point first, then condenses it separately."
+ },
+ {
+  "q": "Which of these is a noble gas?",
+  "correct": "Argon",
+  "wrong": [
+   "Chlorine",
+   "Nitrogen",
+   "Sodium"
+  ],
+  "why": "Argon is a noble gas. Noble gases have full outer shells and are very unreactive."
+ },
+ {
+  "q": "What is the value of Avogadro's constant?",
+  "correct": "6.02 × 10²³ per mole",
+  "wrong": [
+   "6.02 × 10³² per mole",
+   "9.81 per mole",
+   "1.60 × 10⁻¹⁹ per mole"
+  ],
+  "why": "One mole of any substance contains 6.02 × 10²³ particles."
+ },
+ {
+  "q": "What type of reaction is it when a substance burns in oxygen and releases energy?",
+  "correct": "Combustion",
+  "wrong": [
+   "Neutralisation",
+   "Precipitation",
+   "Decomposition"
+  ],
+  "why": "Combustion is a reaction with oxygen that releases heat and light."
+ },
+ {
+  "q": "What colour is universal indicator in a strongly acidic solution?",
+  "correct": "Red",
+  "wrong": [
+   "Green",
+   "Blue",
+   "Purple"
+  ],
+  "why": "Universal indicator is red in strong acid, green when neutral and purple in strong base."
+ },
+ {
+  "q": "What is the name of the alkane with one carbon atom?",
+  "correct": "Methane",
+  "wrong": [
+   "Ethane",
+   "Propane",
+   "Methanol"
+  ],
+  "why": "Methane is the first alkane. Ethane has two carbons and propane has three."
+ },
+ {
+  "q": "Which of these is a physical change rather than a chemical change?",
+  "correct": "Ice melting",
+  "wrong": [
+   "Iron rusting",
+   "Wood burning",
+   "Milk going sour"
+  ],
+  "why": "Melting changes the state of water, but no new substance forms."
+ },
+ {
+  "q": "What is the minimum energy colliding particles need for a reaction to happen?",
+  "correct": "Activation energy",
+  "wrong": [
+   "Enthalpy change",
+   "Ionisation energy",
+   "Lattice energy"
+  ],
+  "why": "Particles must collide with at least the activation energy for a reaction to take place."
+ },
+ {
+  "q": "What is the charge on a proton?",
+  "correct": "Positive",
+  "wrong": [
+   "Negative",
+   "Neutral",
+   "Variable"
+  ],
+  "why": "Protons carry a charge of +1."
+ },
+ {
+  "q": "What is the relative charge of a neutron?",
+  "correct": "Zero",
+  "wrong": [
+   "+1",
+   "-1",
+   "+2"
+  ],
+  "why": "Neutrons are neutral."
+ },
+ {
+  "q": "What is the mass number of an atom?",
+  "correct": "The number of protons plus neutrons",
+  "wrong": [
+   "The number of electrons",
+   "The number of protons only",
+   "The number of shells"
+  ],
+  "why": "Mass number = protons + neutrons."
+ },
+ {
+  "q": "What are isotopes?",
+  "correct": "Atoms of the same element with different numbers of neutrons",
+  "wrong": [
+   "Atoms with different numbers of protons",
+   "Ions of the same element",
+   "Atoms with different numbers of electrons"
+  ],
+  "why": "Isotopes have the same atomic number but different mass numbers."
+ },
+ {
+  "q": "Which sub-atomic particle has almost no mass?",
+  "correct": "Electron",
+  "wrong": [
+   "Proton",
+   "Neutron",
+   "Nucleus"
+  ],
+  "why": "An electron is about 1/1836 the mass of a proton."
+ },
+ {
+  "q": "What is the electronic configuration of sodium (atomic number 11)?",
+  "correct": "2,8,1",
+  "wrong": [
+   "2,8,2",
+   "2,1,8",
+   "2,9"
+  ],
+  "why": "Sodium has 11 electrons arranged 2,8,1 in its shells."
+ },
+ {
+  "q": "In which group of the periodic table are the alkali metals found?",
+  "correct": "Group 1",
+  "wrong": [
+   "Group 2",
+   "Group 7",
+   "Group 0"
+  ],
+  "why": "The alkali metals (Li, Na, K) are in Group 1."
+ },
+ {
+  "q": "Which group contains the halogens?",
+  "correct": "Group 7",
+  "wrong": [
+   "Group 1",
+   "Group 2",
+   "Group 0"
+  ],
+  "why": "Fluorine, chlorine, bromine and iodine are in Group 7 (Group 17)."
+ },
+ {
+  "q": "What happens to the reactivity of the alkali metals as you go down the group?",
+  "correct": "It increases",
+  "wrong": [
+   "It decreases",
+   "It stays the same",
+   "It increases and then decreases"
+  ],
+  "why": "Outer electrons are further from the nucleus and are lost more easily."
+ },
+ {
+  "q": "What is formed when sodium reacts with water?",
+  "correct": "Sodium hydroxide and hydrogen",
+  "wrong": [
+   "Sodium oxide and oxygen",
+   "Sodium chloride and hydrogen",
+   "Sodium carbonate and water"
+  ],
+  "why": "Sodium + water gives sodium hydroxide and hydrogen gas."
+ },
+ {
+  "q": "What type of bond forms between a metal and a non-metal?",
+  "correct": "Ionic",
+  "wrong": [
+   "Covalent",
+   "Metallic",
+   "Hydrogen"
+  ],
+  "why": "The metal loses electrons and the non-metal gains them, forming ions that attract."
+ },
+ {
+  "q": "What is an ion?",
+  "correct": "A charged atom or group of atoms",
+  "wrong": [
+   "A neutral atom",
+   "A type of molecule",
+   "A sub-atomic particle"
+  ],
+  "why": "Ions form when atoms gain or lose electrons."
+ },
+ {
+  "q": "What is the formula of water?",
+  "correct": "H2O",
+  "wrong": [
+   "HO2",
+   "H2O2",
+   "OH"
+  ],
+  "why": "A water molecule has two hydrogen atoms and one oxygen atom."
+ },
+ {
+  "q": "What is the chemical formula of carbon dioxide?",
+  "correct": "CO2",
+  "wrong": [
+   "CO",
+   "C2O",
+   "CO3"
+  ],
+  "why": "Carbon dioxide has one carbon and two oxygen atoms."
+ },
+ {
+  "q": "What is the chemical symbol for sodium?",
+  "correct": "Na",
+  "wrong": [
+   "So",
+   "S",
+   "Sn"
+  ],
+  "why": "Na comes from the Latin name natrium."
+ },
+ {
+  "q": "What is the chemical symbol for potassium?",
+  "correct": "K",
+  "wrong": [
+   "P",
+   "Po",
+   "Pt"
+  ],
+  "why": "K comes from the Latin name kalium."
+ },
+ {
+  "q": "What is the chemical symbol for iron?",
+  "correct": "Fe",
+  "wrong": [
+   "Ir",
+   "I",
+   "F"
+  ],
+  "why": "Fe comes from the Latin name ferrum."
+ },
+ {
+  "q": "What is the relative atomic mass of carbon, to the nearest whole number?",
+  "correct": "12",
+  "wrong": [
+   "6",
+   "14",
+   "16"
+  ],
+  "why": "Carbon-12 is the standard, so carbon's relative atomic mass is 12."
+ },
+ {
+  "q": "How many moles are in 36 g of water (Mr = 18)?",
+  "correct": "2",
+  "wrong": [
+   "1",
+   "0.5",
+   "18"
+  ],
+  "why": "Moles = mass / Mr = 36 / 18 = 2."
+ },
+ {
+  "q": "What is the formula that links moles, mass and molar mass?",
+  "correct": "Moles = mass / molar mass",
+  "wrong": [
+   "Moles = mass x molar mass",
+   "Moles = molar mass / mass",
+   "Moles = mass + molar mass"
+  ],
+  "why": "Divide the mass in grams by the molar mass in g/mol."
+ },
+ {
+  "q": "What is the molar volume of a gas at room temperature and pressure?",
+  "correct": "24 litres",
+  "wrong": [
+   "1 litre",
+   "22 millilitres",
+   "100 litres"
+  ],
+  "why": "One mole of any gas occupies about 24 dm3 at room temperature and pressure."
+ },
+ {
+  "q": "Which of these is an acid?",
+  "correct": "Hydrochloric acid",
+  "wrong": [
+   "Sodium hydroxide",
+   "Calcium oxide",
+   "Ammonia solution"
+  ],
+  "why": "HCl is a strong acid."
+ },
+ {
+  "q": "What is the pH of a strong alkali?",
+  "correct": "About 14",
+  "wrong": [
+   "About 7",
+   "About 1",
+   "About 4"
+  ],
+  "why": "Strong alkalis such as sodium hydroxide have a pH near 14."
+ },
+ {
+  "q": "What do we call a reaction between an acid and a base?",
+  "correct": "Neutralisation",
+  "wrong": [
+   "Combustion",
+   "Oxidation",
+   "Decomposition"
+  ],
+  "why": "An acid and a base react to form a salt and water."
+ },
+ {
+  "q": "What is produced when an acid reacts with a metal carbonate?",
+  "correct": "A salt, water and carbon dioxide",
+  "wrong": [
+   "A salt and hydrogen",
+   "Only water",
+   "An oxide and hydrogen"
+  ],
+  "why": "Carbonate + acid gives salt + water + carbon dioxide."
+ },
+ {
+  "q": "Which gas turns limewater milky?",
+  "correct": "Carbon dioxide",
+  "wrong": [
+   "Hydrogen",
+   "Oxygen",
+   "Nitrogen"
+  ],
+  "why": "Carbon dioxide forms insoluble calcium carbonate in limewater."
+ },
+ {
+  "q": "What is the test for hydrogen gas?",
+  "correct": "A lit splint gives a squeaky pop",
+  "wrong": [
+   "It relights a glowing splint",
+   "It turns limewater milky",
+   "It bleaches damp litmus paper"
+  ],
+  "why": "Hydrogen burns explosively with a squeaky pop."
+ },
+ {
+  "q": "What is the test for oxygen gas?",
+  "correct": "It relights a glowing splint",
+  "wrong": [
+   "A lit splint gives a squeaky pop",
+   "It turns limewater milky",
+   "It turns blue litmus red"
+  ],
+  "why": "Oxygen supports combustion."
+ },
+ {
+  "q": "Which of these is an indicator?",
+  "correct": "Methyl orange",
+  "wrong": [
+   "Sodium chloride",
+   "Ethanol",
+   "Carbon"
+  ],
+  "why": "Methyl orange changes colour at different pH values and is often used in titrations."
+ },
+ {
+  "q": "What is a titration used for?",
+  "correct": "To find the concentration of a solution",
+  "wrong": [
+   "To separate a mixture of solids",
+   "To measure the mass of an atom",
+   "To make a salt crystal"
+  ],
+  "why": "A titration measures how much of one solution reacts exactly with another."
+ },
+ {
+  "q": "What piece of equipment is used to measure a precise volume in a titration?",
+  "correct": "A burette",
+  "wrong": [
+   "A beaker",
+   "A conical flask",
+   "A funnel"
+  ],
+  "why": "The burette delivers a measured volume to a given accuracy."
+ },
+ {
+  "q": "In a redox reaction, what is oxidation?",
+  "correct": "Loss of electrons",
+  "wrong": [
+   "Gain of electrons",
+   "Gain of protons",
+   "Loss of neutrons"
+  ],
+  "why": "OIL RIG: oxidation is loss, reduction is gain of electrons."
+ },
+ {
+  "q": "What does the mnemonic OIL RIG stand for?",
+  "correct": "Oxidation is loss, reduction is gain",
+  "wrong": [
+   "Oxidation is light, reduction is gas",
+   "Oxygen is liquid, reduction is gas",
+   "Oxidation is large, reduction is gentle"
+  ],
+  "why": "It is a way to remember the electron changes in redox."
+ },
+ {
+  "q": "Which factor does NOT speed up a chemical reaction?",
+  "correct": "Decreasing the temperature",
+  "wrong": [
+   "Increasing the temperature",
+   "Adding a catalyst",
+   "Increasing the concentration"
+  ],
+  "why": "Lower temperatures slow reactions down."
+ },
+ {
+  "q": "What does a catalyst do?",
+  "correct": "Speeds up a reaction without being used up",
+  "wrong": [
+   "Slows a reaction down",
+   "Is used up in the reaction",
+   "Changes the products made"
+  ],
+  "why": "A catalyst provides an alternative pathway with a lower activation energy."
+ },
+ {
+  "q": "What kind of reaction releases heat energy to the surroundings?",
+  "correct": "Exothermic",
+  "wrong": [
+   "Endothermic",
+   "Neutralisation only",
+   "Decomposition"
+  ],
+  "why": "In an exothermic reaction the temperature of the surroundings rises."
+ },
+ {
+  "q": "What kind of reaction takes in heat energy from the surroundings?",
+  "correct": "Endothermic",
+  "wrong": [
+   "Exothermic",
+   "Combustion",
+   "Neutralisation"
+  ],
+  "why": "The temperature falls in an endothermic reaction."
+ },
+ {
+  "q": "What is the name of the process that splits large hydrocarbons into smaller ones?",
+  "correct": "Cracking",
+  "wrong": [
+   "Distillation",
+   "Polymerisation",
+   "Combustion"
+  ],
+  "why": "Cracking breaks long alkanes into shorter, more useful molecules."
+ },
+ {
+  "q": "What is the general formula of the alkanes?",
+  "correct": "CnH2n+2",
+  "wrong": [
+   "CnH2n",
+   "CnH2n-2",
+   "CnH2n+1OH"
+  ],
+  "why": "For example methane CH4 and ethane C2H6."
+ },
+ {
+  "q": "What is the general formula of the alkenes?",
+  "correct": "CnH2n",
+  "wrong": [
+   "CnH2n+2",
+   "CnH2n-2",
+   "CnHn"
+  ],
+  "why": "Alkenes contain a C=C double bond."
+ },
+ {
+  "q": "What is the name of the alkane with three carbon atoms?",
+  "correct": "Propane",
+  "wrong": [
+   "Butane",
+   "Ethane",
+   "Pentane"
+  ],
+  "why": "Propane is C3H8."
+ },
+ {
+  "q": "What is the name for the product of ethene polymerising?",
+  "correct": "Polythene",
+  "wrong": [
+   "Polystyrene",
+   "Polyester",
+   "Nylon"
+  ],
+  "why": "Many ethene molecules join to form poly(ethene)."
+ },
+ {
+  "q": "Which functional group do alcohols contain?",
+  "correct": "-OH",
+  "wrong": [
+   "-COOH",
+   "C=C",
+   "-NH2"
+  ],
+  "why": "Alcohols contain a hydroxyl group."
+ },
+ {
+  "q": "Which functional group do carboxylic acids contain?",
+  "correct": "-COOH",
+  "wrong": [
+   "-OH",
+   "C=C",
+   "-CHO"
+  ],
+  "why": "Ethanoic acid is CH3COOH."
+ },
+ {
+  "q": "What is the name of the compound CH3CH2OH?",
+  "correct": "Ethanol",
+  "wrong": [
+   "Methanol",
+   "Propanol",
+   "Ethanal"
+  ],
+  "why": "Ethanol has two carbon atoms and an -OH group."
+ },
+ {
+  "q": "What is hard water?",
+  "correct": "Water that contains dissolved calcium or magnesium salts",
+  "wrong": [
+   "Water that is frozen",
+   "Water with no dissolved minerals",
+   "Water that is very hot"
+  ],
+  "why": "Hard water does not lather easily with soap."
+ },
+ {
+  "q": "Which gas makes up about 78% of the air?",
+  "correct": "Nitrogen",
+  "wrong": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Argon"
+  ],
+  "why": "Nitrogen is about four-fifths of the atmosphere."
+ },
+ {
+  "q": "Which gas makes up about 21% of the air?",
+  "correct": "Oxygen",
+  "wrong": [
+   "Nitrogen",
+   "Argon",
+   "Carbon dioxide"
+  ],
+  "why": "Oxygen is about one-fifth of the air."
+ },
+ {
+  "q": "What is the name of the process used to produce ammonia?",
+  "correct": "The Haber process",
+  "wrong": [
+   "The Contact process",
+   "Cracking",
+   "Electrolysis"
+  ],
+  "why": "Nitrogen and hydrogen react together to make ammonia in the Haber process."
+ },
+ {
+  "q": "What is electrolysis?",
+  "correct": "Using electricity to break down a compound",
+  "wrong": [
+   "Using heat to melt a metal",
+   "Mixing two solutions",
+   "Filtering a mixture"
+  ],
+  "why": "An electric current decomposes an ionic compound in solution or when molten."
+ },
+ {
+  "q": "In electrolysis, at which electrode do positive ions gather?",
+  "correct": "The cathode",
+  "wrong": [
+   "The anode",
+   "The salt bridge",
+   "The electrolyte"
+  ],
+  "why": "Positive ions (cations) are attracted to the negative cathode."
+ },
+ {
+  "q": "Which metal is most reactive?",
+  "correct": "Potassium",
+  "wrong": [
+   "Copper",
+   "Zinc",
+   "Iron"
+  ],
+  "why": "Potassium is high in the reactivity series."
+ },
+ {
+  "q": "Which of these metals does NOT react with dilute acid?",
+  "correct": "Copper",
+  "wrong": [
+   "Zinc",
+   "Magnesium",
+   "Iron"
+  ],
+  "why": "Copper is below hydrogen in the reactivity series."
+ },
+ {
+  "q": "What is rusting?",
+  "correct": "The oxidation of iron in the presence of water and oxygen",
+  "wrong": [
+   "The melting of iron",
+   "The reaction of iron with nitrogen",
+   "The dissolving of iron in water"
+  ],
+  "why": "Iron needs both water and oxygen to rust."
+ }
+]

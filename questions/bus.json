@@ -1,0 +1,652 @@
+[
+ {
+  "q": "What does SME stand for in business?",
+  "correct": "Small and medium-sized enterprise",
+  "wrong": [
+   "Sales and marketing executive",
+   "Small manufacturing establishment",
+   "Standard market exchange"
+  ],
+  "why": "An SME is a small or medium-sized enterprise. SMEs make up most businesses in Ireland."
+ },
+ {
+  "q": "Which financial statement shows a business's income and expenses over a period of time?",
+  "correct": "Profit and loss account",
+  "wrong": [
+   "Balance sheet",
+   "Cash flow forecast",
+   "Delivery docket"
+  ],
+  "why": "The profit and loss account shows revenue less costs to give the profit or loss for the period."
+ },
+ {
+  "q": "A business owned and run by one person, who keeps all the profit and has unlimited liability, is called what?",
+  "correct": "A sole trader",
+  "wrong": [
+   "A partnership",
+   "A public limited company",
+   "A co-operative"
+  ],
+  "why": "A sole trader owns the business alone, keeps the profit and is personally liable for its debts."
+ },
+ {
+  "q": "Which of these is one of the 4 Ps of the marketing mix?",
+  "correct": "Promotion",
+  "wrong": [
+   "Profit",
+   "Payroll",
+   "Production"
+  ],
+  "why": "The 4 Ps are product, price, place and promotion."
+ },
+ {
+  "q": "What does VAT stand for?",
+  "correct": "Value added tax",
+  "wrong": [
+   "Variable annual tax",
+   "Valued asset tax",
+   "Vendor account transfer"
+  ],
+  "why": "VAT is charged on the value added at each stage of supply and is paid by the final consumer."
+ },
+ {
+  "q": "What do we call the people or firms a business owes money to for goods bought on credit?",
+  "correct": "Creditors",
+  "wrong": [
+   "Debtors",
+   "Shareholders",
+   "Customers"
+  ],
+  "why": "Creditors are owed money by the business. Debtors owe money to the business."
+ },
+ {
+  "q": "What do we call a person who takes the risk of setting up a new business?",
+  "correct": "An entrepreneur",
+  "wrong": [
+   "An auditor",
+   "A consumer",
+   "An employee"
+  ],
+  "why": "An entrepreneur organises resources and takes the risk of starting a business in the hope of profit."
+ },
+ {
+  "q": "Which organisation represents workers in pay negotiations with employers?",
+  "correct": "A trade union",
+  "wrong": [
+   "A chamber of commerce",
+   "A credit union",
+   "An employers' federation"
+  ],
+  "why": "Trade unions negotiate pay and working conditions on behalf of their members."
+ },
+ {
+  "q": "Which of these is a short-term source of finance?",
+  "correct": "Bank overdraft",
+  "wrong": [
+   "Mortgage",
+   "Issuing shares",
+   "Debentures"
+  ],
+  "why": "An overdraft is repaid within a year or less. Mortgages, shares and debentures are long-term sources."
+ },
+ {
+  "q": "What is true at a business's break-even point?",
+  "correct": "Total revenue equals total costs",
+  "wrong": [
+   "Profit is at its maximum",
+   "Sales are zero",
+   "Fixed costs are zero"
+  ],
+  "why": "At break-even the business makes neither a profit nor a loss."
+ },
+ {
+  "q": "What does a SWOT analysis look at?",
+  "correct": "Strengths, weaknesses, opportunities and threats",
+  "wrong": [
+   "Sales, wages, orders and targets",
+   "Suppliers, workers, owners and traders",
+   "Stock, wages, output and tax"
+  ],
+  "why": "A SWOT analysis weighs a business's internal strengths and weaknesses against external opportunities and threats."
+ },
+ {
+  "q": "Which type of business is owned and controlled by its members for their mutual benefit?",
+  "correct": "A co-operative",
+  "wrong": [
+   "A sole trader",
+   "A franchise",
+   "A public limited company"
+  ],
+  "why": "Members of a co-operative own it jointly and share in the benefits. Each member usually has one vote."
+ },
+ {
+  "q": "What is the main aim of most private businesses?",
+  "correct": "To make a profit",
+  "wrong": [
+   "To provide free services",
+   "To reduce taxes for the government",
+   "To employ as many people as possible"
+  ],
+  "why": "Private businesses are mainly set up to earn a profit for their owners."
+ },
+ {
+  "q": "Which document must a company file to be formed in Ireland?",
+  "correct": "A constitution (and Form A1)",
+  "wrong": [
+   "A balance sheet",
+   "A pay slip",
+   "A VAT return"
+  ],
+  "why": "A company's constitution is filed with the Companies Registration Office to form the company."
+ },
+ {
+  "q": "Which body registers companies in Ireland?",
+  "correct": "The Companies Registration Office (CRO)",
+  "wrong": [
+   "The Revenue Commissioners",
+   "The Central Bank",
+   "Enterprise Ireland"
+  ],
+  "why": "The CRO keeps the register of Irish companies."
+ },
+ {
+  "q": "What is the legal term for the owners of a company?",
+  "correct": "Shareholders",
+  "wrong": [
+   "Creditors",
+   "Debtors",
+   "Directors only"
+  ],
+  "why": "Shareholders own a company by holding shares in it."
+ },
+ {
+  "q": "What type of liability do the shareholders of a private limited company (LTD) have?",
+  "correct": "Limited liability",
+  "wrong": [
+   "Unlimited liability",
+   "No liability at all",
+   "Joint liability with the directors"
+  ],
+  "why": "Their loss is limited to the amount they invested in shares."
+ },
+ {
+  "q": "What is a dividend?",
+  "correct": "A share of profit paid to shareholders",
+  "wrong": [
+   "A loan from the bank",
+   "A tax paid by the company",
+   "A payment to suppliers"
+  ],
+  "why": "A dividend is the part of a company's profit paid out to its shareholders."
+ },
+ {
+  "q": "Which agency provides support to Irish businesses that want to export?",
+  "correct": "Enterprise Ireland",
+  "wrong": [
+   "Fáilte Ireland",
+   "The Health and Safety Authority",
+   "The Workplace Relations Commission"
+  ],
+  "why": "Enterprise Ireland helps Irish companies grow and sell abroad."
+ },
+ {
+  "q": "Which local organisation helps start-ups and small businesses with advice and grants?",
+  "correct": "Local Enterprise Office (LEO)",
+  "wrong": [
+   "Teagasc",
+   "IDA Ireland",
+   "Bord Bia"
+  ],
+  "why": "LEOs support micro and small businesses in every county."
+ },
+ {
+  "q": "What is the function of IDA Ireland?",
+  "correct": "To attract foreign companies to set up in Ireland",
+  "wrong": [
+   "To regulate banks",
+   "To collect income tax",
+   "To support farmers"
+  ],
+  "why": "IDA Ireland promotes foreign direct investment."
+ },
+ {
+  "q": "What is the term for the money invested in a business by its owners?",
+  "correct": "Capital",
+  "wrong": [
+   "Revenue",
+   "Overheads",
+   "Turnover"
+  ],
+  "why": "Capital is the money owners put into the business to start and run it."
+ },
+ {
+  "q": "What is turnover?",
+  "correct": "Total sales revenue in a period",
+  "wrong": [
+   "Profit after tax",
+   "Total costs",
+   "Money owed to suppliers"
+  ],
+  "why": "Turnover (revenue) is the total value of sales made."
+ },
+ {
+  "q": "What is gross profit?",
+  "correct": "Sales minus cost of sales",
+  "wrong": [
+   "Sales minus all expenses",
+   "Sales plus overheads",
+   "Net profit minus tax"
+  ],
+  "why": "Gross profit = sales (turnover) less the cost of the goods sold."
+ },
+ {
+  "q": "What is net profit?",
+  "correct": "Gross profit minus expenses",
+  "wrong": [
+   "Sales minus cost of sales",
+   "Total assets minus total liabilities",
+   "Gross profit plus expenses"
+  ],
+  "why": "Net profit is what remains after expenses are deducted from gross profit."
+ },
+ {
+  "q": "Which of these is a fixed cost?",
+  "correct": "Rent",
+  "wrong": [
+   "Raw materials",
+   "Packaging",
+   "Sales commission"
+  ],
+  "why": "Fixed costs do not change with the level of output."
+ },
+ {
+  "q": "Which of these is a variable cost?",
+  "correct": "Raw materials",
+  "wrong": [
+   "Rent",
+   "Insurance",
+   "Loan interest"
+  ],
+  "why": "Variable costs go up and down with output."
+ },
+ {
+  "q": "What are overheads?",
+  "correct": "The day-to-day running costs of a business",
+  "wrong": [
+   "The cost of raw materials only",
+   "The profits of a business",
+   "The money owed by customers"
+  ],
+  "why": "Overheads include rent, heat, light and insurance."
+ },
+ {
+  "q": "Which of these is a current asset?",
+  "correct": "Stock",
+  "wrong": [
+   "Premises",
+   "Machinery",
+   "Vehicles"
+  ],
+  "why": "Current assets are used up or turned into cash within a year."
+ },
+ {
+  "q": "Which of these is a fixed asset?",
+  "correct": "Machinery",
+  "wrong": [
+   "Cash",
+   "Stock",
+   "Debtors"
+  ],
+  "why": "Fixed assets are long-term items used in the business for more than a year."
+ },
+ {
+  "q": "What is a debtor?",
+  "correct": "A person or firm who owes money to the business",
+  "wrong": [
+   "A person the business owes money to",
+   "A shareholder",
+   "An employee"
+  ],
+  "why": "Debtors are customers who bought on credit and have not yet paid."
+ },
+ {
+  "q": "What is a long-term source of finance?",
+  "correct": "A mortgage",
+  "wrong": [
+   "Trade credit",
+   "Bank overdraft",
+   "Credit card"
+  ],
+  "why": "A mortgage is repaid over many years, which makes it long-term finance."
+ },
+ {
+  "q": "What is trade credit?",
+  "correct": "Buying goods now and paying the supplier later",
+  "wrong": [
+   "A bank loan for premises",
+   "Money from shareholders",
+   "A government grant"
+  ],
+  "why": "Trade credit lets a firm get goods and pay after an agreed period."
+ },
+ {
+  "q": "Which of these is an internal source of finance?",
+  "correct": "Retained profit",
+  "wrong": [
+   "Overdraft",
+   "Mortgage",
+   "Hire purchase"
+  ],
+  "why": "Retained profit comes from within the business."
+ },
+ {
+  "q": "What is leasing?",
+  "correct": "Paying to use an asset without owning it",
+  "wrong": [
+   "Buying shares in a company",
+   "Taking out a mortgage",
+   "Selling stock"
+  ],
+  "why": "The lessee pays regular fees for the use of the asset."
+ },
+ {
+  "q": "What is the purpose of a business plan?",
+  "correct": "To set out goals and how to achieve them",
+  "wrong": [
+   "To record each day's sales",
+   "To calculate income tax",
+   "To advertise to customers"
+  ],
+  "why": "A business plan is used to guide the firm and to persuade lenders and investors."
+ },
+ {
+  "q": "What does a market survey do?",
+  "correct": "Collects information about customers and the market",
+  "wrong": [
+   "Records the firm's profits",
+   "Calculates VAT",
+   "Recruits staff"
+  ],
+  "why": "Market research helps a business understand what customers want."
+ },
+ {
+  "q": "What is a target market?",
+  "correct": "The group of customers a business aims its product at",
+  "wrong": [
+   "The market with the lowest price",
+   "The business's competitors",
+   "The suppliers of raw materials"
+  ],
+  "why": "A target market is the specific group of customers a firm wants to reach."
+ },
+ {
+  "q": "Which of the 4 Ps refers to how much customers pay?",
+  "correct": "Price",
+  "wrong": [
+   "Product",
+   "Place",
+   "Promotion"
+  ],
+  "why": "Price is the amount the customer pays for the product."
+ },
+ {
+  "q": "What does the 'place' element of the marketing mix refer to?",
+  "correct": "How the product gets to the customer",
+  "wrong": [
+   "The price of the product",
+   "The advertising used",
+   "The quality of the product"
+  ],
+  "why": "Place means distribution: where and how the product is sold."
+ },
+ {
+  "q": "Which is an example of a sales promotion?",
+  "correct": "A two-for-one offer",
+  "wrong": [
+   "A new factory",
+   "A change of supplier",
+   "A bank loan"
+  ],
+  "why": "Sales promotions such as discounts and BOGOF deals encourage buying in the short term."
+ },
+ {
+  "q": "What is branding?",
+  "correct": "Giving a product a name and image that customers recognise",
+  "wrong": [
+   "Setting the price for a product",
+   "Delivering goods to customers",
+   "Recording stock levels"
+  ],
+  "why": "A brand helps a product stand out and builds customer loyalty."
+ },
+ {
+  "q": "What is meant by the term 'consumer'?",
+  "correct": "A person who buys goods or services for their own use",
+  "wrong": [
+   "A person who sells goods",
+   "A person who makes goods",
+   "A person who delivers goods"
+  ],
+  "why": "The consumer is the final user of the product."
+ },
+ {
+  "q": "Which law protects consumers who buy faulty goods in Ireland?",
+  "correct": "The Consumer Rights Act 2022",
+  "wrong": [
+   "The Companies Act",
+   "The Employment Act",
+   "The Finance Act"
+  ],
+  "why": "The Consumer Rights Act gives customers rights to a repair, replacement or refund."
+ },
+ {
+  "q": "What does a payslip show?",
+  "correct": "Gross pay, deductions and net pay",
+  "wrong": [
+   "The firm's profit",
+   "The price of goods",
+   "The firm's tax number"
+  ],
+  "why": "A payslip breaks down an employee's pay for a period."
+ },
+ {
+  "q": "Which tax is deducted from an employee's pay under the PAYE system?",
+  "correct": "Income tax",
+  "wrong": [
+   "VAT",
+   "Corporation tax",
+   "Capital gains tax"
+  ],
+  "why": "PAYE means Pay As You Earn: income tax is deducted by the employer."
+ },
+ {
+  "q": "What does PRSI pay for?",
+  "correct": "Social insurance benefits",
+  "wrong": [
+   "Road building",
+   "Council services",
+   "Company loans"
+  ],
+  "why": "Pay Related Social Insurance contributions fund benefits such as the State pension."
+ },
+ {
+  "q": "Which tax is paid by companies on their profits?",
+  "correct": "Corporation tax",
+  "wrong": [
+   "VAT",
+   "Income tax",
+   "Stamp duty"
+  ],
+  "why": "Corporation tax is a tax on a company's profit."
+ },
+ {
+  "q": "Which body collects taxes in Ireland?",
+  "correct": "The Revenue Commissioners",
+  "wrong": [
+   "The Central Bank",
+   "The CRO",
+   "The ESB"
+  ],
+  "why": "Revenue collects taxes and customs duties."
+ },
+ {
+  "q": "What is insurance for?",
+  "correct": "To protect against financial loss from a risk",
+  "wrong": [
+   "To make a business more profitable",
+   "To pay employees' wages",
+   "To advertise the business"
+  ],
+  "why": "Insurance pays out if an insured risk happens, such as fire or theft."
+ },
+ {
+  "q": "What is the principle that you must have a financial interest in what you insure?",
+  "correct": "Insurable interest",
+  "wrong": [
+   "Utmost good faith",
+   "Indemnity",
+   "Subrogation"
+  ],
+  "why": "Insurable interest means you would suffer a loss if the insured item were damaged or lost."
+ },
+ {
+  "q": "What does the principle of indemnity mean?",
+  "correct": "You are put back to the position you were in before the loss",
+  "wrong": [
+   "You can make a profit from a claim",
+   "You never have to pay a premium",
+   "You can insure anything you like"
+  ],
+  "why": "Indemnity means compensation covers the actual loss and nothing more."
+ },
+ {
+  "q": "What is a premium?",
+  "correct": "The amount you pay for insurance",
+  "wrong": [
+   "A payment to a supplier",
+   "A bonus given to workers",
+   "A loan from the bank"
+  ],
+  "why": "The premium is the regular payment made to the insurer."
+ },
+ {
+  "q": "Which is a type of business that is owned by the State?",
+  "correct": "A semi-State company",
+  "wrong": [
+   "A sole trader",
+   "A franchise",
+   "A partnership"
+  ],
+  "why": "Semi-State companies such as ESB are owned wholly or mostly by the State."
+ },
+ {
+  "q": "What is a franchise?",
+  "correct": "A licence to use another firm's name and business model",
+  "wrong": [
+   "A type of insurance",
+   "A government grant",
+   "A bank loan"
+  ],
+  "why": "A franchisee pays fees to use the franchisor's brand and system."
+ },
+ {
+  "q": "In a partnership, what do partners usually share?",
+  "correct": "The profits, the risks and the work",
+  "wrong": [
+   "Only the work",
+   "Only the losses",
+   "Only the profits"
+  ],
+  "why": "Partners usually share the profit and the liability."
+ },
+ {
+  "q": "Which of these is a reason for a business to go international?",
+  "correct": "To reach more customers",
+  "wrong": [
+   "To reduce the number of sales",
+   "To avoid all tax",
+   "To remove all competition"
+  ],
+  "why": "Selling abroad can increase sales and spread risk."
+ },
+ {
+  "q": "What currency is used in most European Union countries that have joined the euro?",
+  "correct": "The euro",
+  "wrong": [
+   "The pound",
+   "The dollar",
+   "The franc"
+  ],
+  "why": "The euro is used by most, but not all, European Union member states."
+ },
+ {
+  "q": "What is globalisation?",
+  "correct": "Businesses and economies becoming linked across the world",
+  "wrong": [
+   "A company moving offices",
+   "A new tax system",
+   "The creation of a national brand"
+  ],
+  "why": "Globalisation is the increasing connection of trade and business worldwide."
+ },
+ {
+  "q": "What is a trade fair?",
+  "correct": "An event where businesses show products to buyers",
+  "wrong": [
+   "A government inspection",
+   "A tax audit",
+   "A job interview"
+  ],
+  "why": "Trade fairs help firms find customers and suppliers."
+ },
+ {
+  "q": "What is ethical behaviour in business?",
+  "correct": "Acting fairly and honestly",
+  "wrong": [
+   "Maximising profit at any cost",
+   "Avoiding all competition",
+   "Paying the lowest possible wages"
+  ],
+  "why": "Ethics are the moral principles that guide a firm's decisions."
+ },
+ {
+  "q": "What does CSR stand for?",
+  "correct": "Corporate social responsibility",
+  "wrong": [
+   "Customer service rating",
+   "Company sales record",
+   "Central staff review"
+  ],
+  "why": "CSR means a business takes responsibility for its effect on society and the environment."
+ },
+ {
+  "q": "Which of these is an example of a business's responsibility to the environment?",
+  "correct": "Recycling waste",
+  "wrong": [
+   "Using more packaging",
+   "Raising prices",
+   "Hiring more staff"
+  ],
+  "why": "Reducing waste and pollution is part of environmental responsibility."
+ },
+ {
+  "q": "What is the name for taking on a new employee?",
+  "correct": "Recruitment",
+  "wrong": [
+   "Redundancy",
+   "Dismissal",
+   "Appraisal"
+  ],
+  "why": "Recruitment is finding and hiring suitable staff."
+ },
+ {
+  "q": "Which of these is a reason for redundancy?",
+  "correct": "The job no longer exists",
+  "wrong": [
+   "The employee was promoted",
+   "The employee was late once",
+   "The employee asked for holidays"
+  ],
+  "why": "Redundancy happens when the employer no longer needs the job to be done."
+ }
+]
